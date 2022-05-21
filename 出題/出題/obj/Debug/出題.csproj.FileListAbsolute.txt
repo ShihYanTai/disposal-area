@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\出題\出題\bin\Debug\出題.exe.config
+C:\Users\GIGABYTE\source\repos\出題\出題\bin\Debug\出題.exe
+C:\Users\GIGABYTE\source\repos\出題\出題\bin\Debug\出題.pdb
+C:\Users\GIGABYTE\source\repos\出題\出題\obj\Debug\出題.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\出題\出題\obj\Debug\出題.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\出題\出題\obj\Debug\出題.Form1.resources
+C:\Users\GIGABYTE\source\repos\出題\出題\obj\Debug\出題.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\出題\出題\obj\Debug\出題.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\出題\出題\obj\Debug\出題.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\出題\出題\obj\Debug\出題.exe
+C:\Users\GIGABYTE\source\repos\出題\出題\obj\Debug\出題.pdb
