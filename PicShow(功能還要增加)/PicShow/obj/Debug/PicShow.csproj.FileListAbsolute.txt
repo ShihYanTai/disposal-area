@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\bin\Debug\PicShow.exe.config
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\bin\Debug\PicShow.exe
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\bin\Debug\PicShow.pdb
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\obj\Debug\PicShow.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\obj\Debug\PicShow.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\obj\Debug\PicShow.Form1.resources
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\obj\Debug\PicShow.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\obj\Debug\PicShow.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\obj\Debug\PicShow.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\obj\Debug\PicShow.exe
+C:\Users\GIGABYTE\source\repos\PicShow\PicShow\obj\Debug\PicShow.pdb
