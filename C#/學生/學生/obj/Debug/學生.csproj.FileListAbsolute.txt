@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\學生\學生\bin\Debug\學生.exe.config
+C:\Users\GIGABYTE\source\repos\學生\學生\bin\Debug\學生.exe
+C:\Users\GIGABYTE\source\repos\學生\學生\bin\Debug\學生.pdb
+C:\Users\GIGABYTE\source\repos\學生\學生\obj\Debug\學生.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\學生\學生\obj\Debug\學生.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\學生\學生\obj\Debug\學生.Form1.resources
+C:\Users\GIGABYTE\source\repos\學生\學生\obj\Debug\學生.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\學生\學生\obj\Debug\學生.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\學生\學生\obj\Debug\學生.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\學生\學生\obj\Debug\學生.exe
+C:\Users\GIGABYTE\source\repos\學生\學生\obj\Debug\學生.pdb

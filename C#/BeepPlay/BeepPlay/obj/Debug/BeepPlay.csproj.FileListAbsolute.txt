@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\bin\Debug\BeepPlay.exe.config
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\bin\Debug\BeepPlay.exe
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\bin\Debug\BeepPlay.pdb
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\obj\Debug\BeepPlay.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\obj\Debug\BeepPlay.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\obj\Debug\BeepPlay.Form1.resources
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\obj\Debug\BeepPlay.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\obj\Debug\BeepPlay.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\obj\Debug\BeepPlay.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\obj\Debug\BeepPlay.exe
+C:\Users\GIGABYTE\source\repos\BeepPlay\BeepPlay\obj\Debug\BeepPlay.pdb

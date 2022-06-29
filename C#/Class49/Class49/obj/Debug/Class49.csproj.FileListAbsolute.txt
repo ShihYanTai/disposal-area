@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\Class49\Class49\bin\Debug\Class49.exe.config
+C:\Users\GIGABYTE\source\repos\Class49\Class49\bin\Debug\Class49.exe
+C:\Users\GIGABYTE\source\repos\Class49\Class49\bin\Debug\Class49.pdb
+C:\Users\GIGABYTE\source\repos\Class49\Class49\obj\Debug\Class49.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Class49\Class49\obj\Debug\Class49.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Class49\Class49\obj\Debug\Class49.Form1.resources
+C:\Users\GIGABYTE\source\repos\Class49\Class49\obj\Debug\Class49.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Class49\Class49\obj\Debug\Class49.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Class49\Class49\obj\Debug\Class49.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Class49\Class49\obj\Debug\Class49.exe
+C:\Users\GIGABYTE\source\repos\Class49\Class49\obj\Debug\Class49.pdb

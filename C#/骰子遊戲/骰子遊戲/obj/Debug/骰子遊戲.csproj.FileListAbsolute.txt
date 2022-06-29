@@ -1,0 +1,8 @@
+C:\Users\GIGABYTE\source\repos\骰子遊戲\骰子遊戲\bin\Debug\骰子遊戲.exe.config
+C:\Users\GIGABYTE\source\repos\骰子遊戲\骰子遊戲\bin\Debug\骰子遊戲.exe
+C:\Users\GIGABYTE\source\repos\骰子遊戲\骰子遊戲\bin\Debug\骰子遊戲.pdb
+C:\Users\GIGABYTE\source\repos\骰子遊戲\骰子遊戲\obj\Debug\骰子遊戲.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\骰子遊戲\骰子遊戲\obj\Debug\骰子遊戲.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\骰子遊戲\骰子遊戲\obj\Debug\骰子遊戲.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\骰子遊戲\骰子遊戲\obj\Debug\骰子遊戲.exe
+C:\Users\GIGABYTE\source\repos\骰子遊戲\骰子遊戲\obj\Debug\骰子遊戲.pdb

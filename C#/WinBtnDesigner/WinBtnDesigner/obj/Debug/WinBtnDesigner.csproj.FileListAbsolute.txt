@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\bin\Debug\WinBtnDesigner.exe.config
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\bin\Debug\WinBtnDesigner.exe
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\bin\Debug\WinBtnDesigner.pdb
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\obj\Debug\WinBtnDesigner.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\obj\Debug\WinBtnDesigner.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\obj\Debug\WinBtnDesigner.Form1.resources
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\obj\Debug\WinBtnDesigner.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\obj\Debug\WinBtnDesigner.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\obj\Debug\WinBtnDesigner.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\obj\Debug\WinBtnDesigner.exe
+C:\Users\GIGABYTE\source\repos\WinBtnDesigner\WinBtnDesigner\obj\Debug\WinBtnDesigner.pdb

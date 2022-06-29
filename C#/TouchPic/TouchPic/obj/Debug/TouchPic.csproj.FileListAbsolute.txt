@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\bin\Debug\TouchPic.exe.config
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\bin\Debug\TouchPic.exe
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\bin\Debug\TouchPic.pdb
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\obj\Debug\TouchPic.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\obj\Debug\TouchPic.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\obj\Debug\TouchPic.Form1.resources
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\obj\Debug\TouchPic.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\obj\Debug\TouchPic.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\obj\Debug\TouchPic.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\obj\Debug\TouchPic.exe
+C:\Users\GIGABYTE\source\repos\TouchPic\TouchPic\obj\Debug\TouchPic.pdb

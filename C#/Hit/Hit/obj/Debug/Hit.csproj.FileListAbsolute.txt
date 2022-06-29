@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\Hit\Hit\bin\Debug\Hit.exe.config
+C:\Users\GIGABYTE\source\repos\Hit\Hit\bin\Debug\Hit.exe
+C:\Users\GIGABYTE\source\repos\Hit\Hit\bin\Debug\Hit.pdb
+C:\Users\GIGABYTE\source\repos\Hit\Hit\obj\Debug\Hit.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Hit\Hit\obj\Debug\Hit.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Hit\Hit\obj\Debug\Hit.Form1.resources
+C:\Users\GIGABYTE\source\repos\Hit\Hit\obj\Debug\Hit.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Hit\Hit\obj\Debug\Hit.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Hit\Hit\obj\Debug\Hit.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Hit\Hit\obj\Debug\Hit.exe
+C:\Users\GIGABYTE\source\repos\Hit\Hit\obj\Debug\Hit.pdb

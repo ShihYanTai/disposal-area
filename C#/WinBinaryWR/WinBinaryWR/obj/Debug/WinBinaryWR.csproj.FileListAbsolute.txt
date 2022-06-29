@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\bin\Debug\WinBinaryWR.exe.config
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\bin\Debug\WinBinaryWR.exe
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\bin\Debug\WinBinaryWR.pdb
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\obj\Debug\WinBinaryWR.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\obj\Debug\WinBinaryWR.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\obj\Debug\WinBinaryWR.Form1.resources
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\obj\Debug\WinBinaryWR.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\obj\Debug\WinBinaryWR.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\obj\Debug\WinBinaryWR.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\obj\Debug\WinBinaryWR.exe
+C:\Users\GIGABYTE\source\repos\WinBinaryWR\WinBinaryWR\obj\Debug\WinBinaryWR.pdb

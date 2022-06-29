@@ -1,0 +1,10 @@
+C:\Users\GIGABYTE\source\repos\windows\windows\bin\Debug\windows.exe.config
+C:\Users\GIGABYTE\source\repos\windows\windows\bin\Debug\windows.exe
+C:\Users\GIGABYTE\source\repos\windows\windows\bin\Debug\windows.pdb
+C:\Users\GIGABYTE\source\repos\windows\windows\obj\Debug\windows.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\windows\windows\obj\Debug\windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\windows\windows\obj\Debug\windows.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\windows\windows\obj\Debug\windows.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\windows\windows\obj\Debug\windows.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\windows\windows\obj\Debug\windows.exe
+C:\Users\GIGABYTE\source\repos\windows\windows\obj\Debug\windows.pdb

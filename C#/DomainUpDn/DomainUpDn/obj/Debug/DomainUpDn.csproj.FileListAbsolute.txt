@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\bin\Debug\DomainUpDn.exe.config
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\bin\Debug\DomainUpDn.exe
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\bin\Debug\DomainUpDn.pdb
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\obj\Debug\DomainUpDn.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\obj\Debug\DomainUpDn.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\obj\Debug\DomainUpDn.Form1.resources
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\obj\Debug\DomainUpDn.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\obj\Debug\DomainUpDn.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\obj\Debug\DomainUpDn.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\obj\Debug\DomainUpDn.exe
+C:\Users\GIGABYTE\source\repos\DomainUpDn\DomainUpDn\obj\Debug\DomainUpDn.pdb

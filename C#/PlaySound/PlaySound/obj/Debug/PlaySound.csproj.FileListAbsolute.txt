@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\bin\Debug\PlaySound.exe.config
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\bin\Debug\PlaySound.exe
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\bin\Debug\PlaySound.pdb
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\obj\Debug\PlaySound.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\obj\Debug\PlaySound.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\obj\Debug\PlaySound.Form1.resources
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\obj\Debug\PlaySound.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\obj\Debug\PlaySound.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\obj\Debug\PlaySound.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\obj\Debug\PlaySound.exe
+C:\Users\GIGABYTE\source\repos\PlaySound\PlaySound\obj\Debug\PlaySound.pdb

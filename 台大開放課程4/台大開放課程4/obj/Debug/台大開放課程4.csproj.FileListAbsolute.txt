@@ -1,3 +1,0 @@
-C:\Users\GIGABYTE\source\repos\台大開放課程4\台大開放課程4\obj\Debug\台大開放課程4.csproj.AssemblyReference.cache
-C:\Users\GIGABYTE\source\repos\台大開放課程4\台大開放課程4\obj\Debug\台大開放課程4.csproj.SuggestedBindingRedirects.cache
-C:\Users\GIGABYTE\source\repos\台大開放課程4\台大開放課程4\obj\Debug\台大開放課程4.csproj.CoreCompileInputs.cache
