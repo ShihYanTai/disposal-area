@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\bin\Debug\ConnectionOleDb.exe.config
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\bin\Debug\ConnectionOleDb.exe
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\bin\Debug\ConnectionOleDb.pdb
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\obj\Debug\ConnectionOleDb.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\obj\Debug\ConnectionOleDb.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\obj\Debug\ConnectionOleDb.Form1.resources
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\obj\Debug\ConnectionOleDb.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\obj\Debug\ConnectionOleDb.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\obj\Debug\ConnectionOleDb.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\obj\Debug\ConnectionOleDb.exe
+C:\Users\GIGABYTE\source\repos\ConnectionOleDb\ConnectionOleDb\obj\Debug\ConnectionOleDb.pdb
