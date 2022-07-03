@@ -1,0 +1,13 @@
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\bin\Debug\Database1.mdf
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\bin\Debug\Database1_log.ldf
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\obj\Debug\CreateDB.Form1.resources
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\GIGABYTE\source\repos\disposal area\C#\CreateDB\CreateDB\CreateDB\CreateDB\obj\Debug\CreateDB.pdb

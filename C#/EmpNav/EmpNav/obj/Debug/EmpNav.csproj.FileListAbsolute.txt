@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\bin\Debug\EmpNav.exe.config
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\bin\Debug\EmpNav.exe
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\bin\Debug\EmpNav.pdb
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\obj\Debug\EmpNav.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\obj\Debug\EmpNav.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\obj\Debug\EmpNav.Form1.resources
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\obj\Debug\EmpNav.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\obj\Debug\EmpNav.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\obj\Debug\EmpNav.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\obj\Debug\EmpNav.exe
+C:\Users\GIGABYTE\source\repos\EmpNav\EmpNav\obj\Debug\EmpNav.pdb
