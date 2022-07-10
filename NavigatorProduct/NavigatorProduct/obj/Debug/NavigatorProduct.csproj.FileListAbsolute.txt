@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\bin\Debug\NavigatorProduct.exe.config
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\bin\Debug\NavigatorProduct.exe
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\bin\Debug\NavigatorProduct.pdb
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\obj\Debug\NavigatorProduct.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\obj\Debug\NavigatorProduct.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\obj\Debug\NavigatorProduct.Form1.resources
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\obj\Debug\NavigatorProduct.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\obj\Debug\NavigatorProduct.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\obj\Debug\NavigatorProduct.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\obj\Debug\NavigatorProduct.exe
+C:\Users\GIGABYTE\source\repos\NavigatorProduct\NavigatorProduct\obj\Debug\NavigatorProduct.pdb

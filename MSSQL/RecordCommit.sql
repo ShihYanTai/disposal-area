@@ -36,3 +36,13 @@ CREATE TABLE #temp (
 INSERT INTO #temp VALUES( 'Name', NULL, 'Lastname' );  
 SELECT CONCAT( emp_name, emp_middlename, emp_lastname ) AS Result  
 FROM #temp;  
+
+
+-------------------------------------
+
+select
+user_id,
+concat(upper(left(name,1)),lower(right(name,len(name)-1))) as name
+from
+Users
+order by user_id
