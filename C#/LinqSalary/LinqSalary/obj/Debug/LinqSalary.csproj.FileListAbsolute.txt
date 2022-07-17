@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\bin\Debug\LinqSalary.exe.config
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\bin\Debug\LinqSalary.exe
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\bin\Debug\LinqSalary.pdb
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\obj\Debug\LinqSalary.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\obj\Debug\LinqSalary.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\obj\Debug\LinqSalary.Form1.resources
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\obj\Debug\LinqSalary.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\obj\Debug\LinqSalary.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\obj\Debug\LinqSalary.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\obj\Debug\LinqSalary.exe
+C:\Users\GIGABYTE\source\repos\LinqSalary\LinqSalary\obj\Debug\LinqSalary.pdb

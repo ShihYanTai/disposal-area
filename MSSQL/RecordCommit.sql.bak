@@ -36,3 +36,27 @@ CREATE TABLE #temp (
 INSERT INTO #temp VALUES( 'Name', NULL, 'Lastname' );  
 SELECT CONCAT( emp_name, emp_middlename, emp_lastname ) AS Result  
 FROM #temp;  
+
+
+-------------------------------------
+
+select
+user_id,
+concat(upper(left(name,1)),lower(right(name,len(name)-1))) as name
+from
+Users
+order by user_id
+
+----------------------------------------------
+
+USE AdventureWorks2012;  
+GO  
+SELECT p.FirstName, p.LastName , DATEDIFF(day, ROW_NUMBER() OVER (ORDER BY a.PostalCode), SYSDATETIME()) AS 'Row Number'  
+FROM Sales.SalesPerson s   
+    INNER JOIN Person.Person p ON s.BusinessEntityID = p.BusinessEntityID  
+    INNER JOIN Person.Address a ON a.AddressID = p.BusinessEntityID  
+WHERE TerritoryID IS NOT NULL  AND SalesYTD <> 0;
+
+----------------------------------------------
+
+SELECT TOP(1) customer_number FROM Orders GROUP BY customer_number HAVING count(order_number) > 1 ORDER BY count(order_number) DESC

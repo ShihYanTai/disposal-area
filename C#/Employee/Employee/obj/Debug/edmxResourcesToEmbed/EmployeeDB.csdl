@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="員工">
+    <Key>
+      <PropertyRef Name="員工編號" />
+    </Key>
+    <Property Name="員工編號" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="姓名" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="職稱" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="薪資" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="EmployeeDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="員工" EntityType="Self.員工" />
+  </EntityContainer>
+</Schema>

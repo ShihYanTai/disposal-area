@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\bin\Debug\LinqBrowse.exe.config
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\bin\Debug\LinqBrowse.exe
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\bin\Debug\LinqBrowse.pdb
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\obj\Debug\LinqBrowse.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\obj\Debug\LinqBrowse.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\obj\Debug\LinqBrowse.Form1.resources
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\obj\Debug\LinqBrowse.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\obj\Debug\LinqBrowse.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\obj\Debug\LinqBrowse.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\obj\Debug\LinqBrowse.exe
+C:\Users\GIGABYTE\source\repos\LinqBrowse\LinqBrowse\obj\Debug\LinqBrowse.pdb

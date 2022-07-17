@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\bin\Debug\NameSort.exe.config
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\bin\Debug\NameSort.exe
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\bin\Debug\NameSort.pdb
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\obj\Debug\NameSort.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\obj\Debug\NameSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\obj\Debug\NameSort.Form1.resources
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\obj\Debug\NameSort.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\obj\Debug\NameSort.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\obj\Debug\NameSort.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\obj\Debug\NameSort.exe
+C:\Users\GIGABYTE\source\repos\NameSort\NameSort\obj\Debug\NameSort.pdb
