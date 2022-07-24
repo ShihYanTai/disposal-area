@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\Poly\Poly\bin\Debug\Poly.exe.config
+C:\Users\GIGABYTE\source\repos\Poly\Poly\bin\Debug\Poly.exe
+C:\Users\GIGABYTE\source\repos\Poly\Poly\bin\Debug\Poly.pdb
+C:\Users\GIGABYTE\source\repos\Poly\Poly\obj\Debug\Poly.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Poly\Poly\obj\Debug\Poly.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Poly\Poly\obj\Debug\Poly.Form1.resources
+C:\Users\GIGABYTE\source\repos\Poly\Poly\obj\Debug\Poly.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Poly\Poly\obj\Debug\Poly.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Poly\Poly\obj\Debug\Poly.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Poly\Poly\obj\Debug\Poly.exe
+C:\Users\GIGABYTE\source\repos\Poly\Poly\obj\Debug\Poly.pdb

@@ -66,4 +66,3 @@ SELECT TOP(1) customer_number FROM Orders GROUP BY customer_number HAVING count(
 with t1 as (select class, count(class) as num from Courses group by class )
 select class from t1 where num >=5
 ------------------------------------------------
-

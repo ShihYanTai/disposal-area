@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\bin\Debug\StackEx.exe.config
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\bin\Debug\StackEx.exe
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\bin\Debug\StackEx.pdb
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\obj\Debug\StackEx.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\obj\Debug\StackEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\obj\Debug\StackEx.Form1.resources
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\obj\Debug\StackEx.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\obj\Debug\StackEx.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\obj\Debug\StackEx.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\obj\Debug\StackEx.exe
+C:\Users\GIGABYTE\source\repos\StackEx\StackEx\obj\Debug\StackEx.pdb

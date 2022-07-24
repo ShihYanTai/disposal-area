@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\bin\Debug\Constructor2.exe.config
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\bin\Debug\Constructor2.exe
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\bin\Debug\Constructor2.pdb
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\obj\Debug\Constructor2.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\obj\Debug\Constructor2.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\obj\Debug\Constructor2.Form1.resources
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\obj\Debug\Constructor2.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\obj\Debug\Constructor2.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\obj\Debug\Constructor2.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\obj\Debug\Constructor2.exe
+C:\Users\GIGABYTE\source\repos\Constructor2\Constructor2\obj\Debug\Constructor2.pdb

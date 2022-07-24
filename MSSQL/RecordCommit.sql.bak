@@ -60,3 +60,10 @@ WHERE TerritoryID IS NOT NULL  AND SalesYTD <> 0;
 ----------------------------------------------
 
 SELECT TOP(1) customer_number FROM Orders GROUP BY customer_number HAVING count(order_number) > 1 ORDER BY count(order_number) DESC
+
+---Using CTE fast than font sentence -----
+
+with t1 as (select class, count(class) as num from Courses group by class )
+select class from t1 where num >=5
+------------------------------------------------
+
