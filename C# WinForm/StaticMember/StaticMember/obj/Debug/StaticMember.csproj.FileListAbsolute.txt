@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\bin\Debug\StaticMember.exe.config
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\bin\Debug\StaticMember.exe
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\bin\Debug\StaticMember.pdb
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\obj\Debug\StaticMember.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\obj\Debug\StaticMember.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\obj\Debug\StaticMember.Form1.resources
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\obj\Debug\StaticMember.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\obj\Debug\StaticMember.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\obj\Debug\StaticMember.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\obj\Debug\StaticMember.exe
+C:\Users\GIGABYTE\source\repos\StaticMember\StaticMember\obj\Debug\StaticMember.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListEx", "ListEx\ListEx.csproj", "{6CE37F90-C7E5-4EA1-A414-CE9D7C03104B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CE37F90-C7E5-4EA1-A414-CE9D7C03104B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE37F90-C7E5-4EA1-A414-CE9D7C03104B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE37F90-C7E5-4EA1-A414-CE9D7C03104B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE37F90-C7E5-4EA1-A414-CE9D7C03104B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {778E31C6-CE7B-4329-A488-315617547DD4}
+	EndGlobalSection
+EndGlobal

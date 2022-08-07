@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\bin\Debug\CarRent.exe.config
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\bin\Debug\CarRent.exe
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\bin\Debug\CarRent.pdb
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\obj\Debug\CarRent.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\obj\Debug\CarRent.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\obj\Debug\CarRent.Form1.resources
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\obj\Debug\CarRent.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\obj\Debug\CarRent.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\obj\Debug\CarRent.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\obj\Debug\CarRent.exe
+C:\Users\GIGABYTE\source\repos\CarRent\CarRent\obj\Debug\CarRent.pdb

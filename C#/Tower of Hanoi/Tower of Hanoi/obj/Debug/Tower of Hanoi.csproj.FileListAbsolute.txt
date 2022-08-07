@@ -1,8 +1,0 @@
-C:\Users\GIGABYTE\source\repos\Tower of Hanoi\Tower of Hanoi\bin\Debug\Tower of Hanoi.exe.config
-C:\Users\GIGABYTE\source\repos\Tower of Hanoi\Tower of Hanoi\bin\Debug\Tower of Hanoi.exe
-C:\Users\GIGABYTE\source\repos\Tower of Hanoi\Tower of Hanoi\bin\Debug\Tower of Hanoi.pdb
-C:\Users\GIGABYTE\source\repos\Tower of Hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.csproj.AssemblyReference.cache
-C:\Users\GIGABYTE\source\repos\Tower of Hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.csproj.SuggestedBindingRedirects.cache
-C:\Users\GIGABYTE\source\repos\Tower of Hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.csproj.CoreCompileInputs.cache
-C:\Users\GIGABYTE\source\repos\Tower of Hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.exe
-C:\Users\GIGABYTE\source\repos\Tower of Hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.pdb

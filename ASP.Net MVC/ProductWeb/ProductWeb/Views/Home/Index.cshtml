@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ProductWeb.Models.產品>
+
+@{
+    ViewBag.Title = "產品列表";
+}
+
+<h2>產品列表</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.編號)
+        </th>   
+        <th>
+            @Html.DisplayNameFor(model => model.品名)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.單價)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.數量)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.圖示)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.編號)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.品名)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.單價)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.數量)
+        </td>
+        <td>
+            <img src="~/images/@item.圖示" width="150" />
+        </td>
+        <td>
+            <a href="@Url.Action("Edit")?pid=@item.編號" class="btn btn-info">編輯</a>
+            <a href="@Url.Action("Delete")?pid=@item.編號" class="btn btn-danger">刪除</a>
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\bin\Debug\LinqScore.exe.config
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\bin\Debug\LinqScore.exe
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\bin\Debug\LinqScore.pdb
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\obj\Debug\LinqScore.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\obj\Debug\LinqScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\obj\Debug\LinqScore.Form1.resources
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\obj\Debug\LinqScore.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\obj\Debug\LinqScore.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\obj\Debug\LinqScore.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\obj\Debug\LinqScore.exe
+C:\Users\GIGABYTE\source\repos\LinqScore\LinqScore\obj\Debug\LinqScore.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\bin\Debug\EditEmp.exe.config
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\bin\Debug\EditEmp.exe
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\bin\Debug\EditEmp.pdb
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\obj\Debug\EditEmp.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\obj\Debug\EditEmp.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\obj\Debug\EditEmp.Form1.resources
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\obj\Debug\EditEmp.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\obj\Debug\EditEmp.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\obj\Debug\EditEmp.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\obj\Debug\EditEmp.exe
+C:\Users\GIGABYTE\source\repos\EditEmp\EditEmp\obj\Debug\EditEmp.pdb

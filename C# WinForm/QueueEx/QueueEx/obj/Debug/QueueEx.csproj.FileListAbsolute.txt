@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\bin\Debug\QueueEx.exe.config
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\bin\Debug\QueueEx.exe
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\bin\Debug\QueueEx.pdb
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\obj\Debug\QueueEx.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\obj\Debug\QueueEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\obj\Debug\QueueEx.Form1.resources
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\obj\Debug\QueueEx.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\obj\Debug\QueueEx.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\obj\Debug\QueueEx.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\obj\Debug\QueueEx.exe
+C:\Users\GIGABYTE\source\repos\QueueEx\QueueEx\obj\Debug\QueueEx.pdb

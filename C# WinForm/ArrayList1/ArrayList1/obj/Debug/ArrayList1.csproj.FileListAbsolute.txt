@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\bin\Debug\ArrayList1.exe.config
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\bin\Debug\ArrayList1.exe
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\bin\Debug\ArrayList1.pdb
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\obj\Debug\ArrayList1.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\obj\Debug\ArrayList1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\obj\Debug\ArrayList1.Form1.resources
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\obj\Debug\ArrayList1.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\obj\Debug\ArrayList1.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\obj\Debug\ArrayList1.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\obj\Debug\ArrayList1.exe
+C:\Users\GIGABYTE\source\repos\ArrayList1\ArrayList1\obj\Debug\ArrayList1.pdb

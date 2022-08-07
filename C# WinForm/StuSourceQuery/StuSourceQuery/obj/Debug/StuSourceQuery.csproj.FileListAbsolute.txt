@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\bin\Debug\StuSourceQuery.exe.config
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\bin\Debug\StuSourceQuery.exe
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\bin\Debug\StuSourceQuery.pdb
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\obj\Debug\StuSourceQuery.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\obj\Debug\StuSourceQuery.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\obj\Debug\StuSourceQuery.Form1.resources
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\obj\Debug\StuSourceQuery.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\obj\Debug\StuSourceQuery.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\obj\Debug\StuSourceQuery.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\obj\Debug\StuSourceQuery.exe
+C:\Users\GIGABYTE\source\repos\StuSourceQuery\StuSourceQuery\obj\Debug\StuSourceQuery.pdb

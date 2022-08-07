@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\bin\Debug\Generic2.exe.config
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\bin\Debug\Generic2.exe
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\bin\Debug\Generic2.pdb
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\obj\Debug\Generic2.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\obj\Debug\Generic2.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\obj\Debug\Generic2.Form1.resources
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\obj\Debug\Generic2.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\obj\Debug\Generic2.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\obj\Debug\Generic2.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\obj\Debug\Generic2.exe
+C:\Users\GIGABYTE\source\repos\Generic2\Generic2\obj\Debug\Generic2.pdb

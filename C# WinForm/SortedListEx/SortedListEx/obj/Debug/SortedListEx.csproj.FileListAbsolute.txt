@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\bin\Debug\SortedListEx.exe.config
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\bin\Debug\SortedListEx.exe
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\bin\Debug\SortedListEx.pdb
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\obj\Debug\SortedListEx.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\obj\Debug\SortedListEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\obj\Debug\SortedListEx.Form1.resources
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\obj\Debug\SortedListEx.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\obj\Debug\SortedListEx.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\obj\Debug\SortedListEx.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\obj\Debug\SortedListEx.exe
+C:\Users\GIGABYTE\source\repos\SortedListEx\SortedListEx\obj\Debug\SortedListEx.pdb

@@ -1,0 +1,8 @@
+C:\Users\GIGABYTE\source\repos\ConvertingTiming\ConvertingTiming\bin\Debug\ConvertingTiming.exe.config
+C:\Users\GIGABYTE\source\repos\ConvertingTiming\ConvertingTiming\bin\Debug\ConvertingTiming.exe
+C:\Users\GIGABYTE\source\repos\ConvertingTiming\ConvertingTiming\bin\Debug\ConvertingTiming.pdb
+C:\Users\GIGABYTE\source\repos\ConvertingTiming\ConvertingTiming\obj\Debug\ConvertingTiming.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\ConvertingTiming\ConvertingTiming\obj\Debug\ConvertingTiming.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\ConvertingTiming\ConvertingTiming\obj\Debug\ConvertingTiming.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\ConvertingTiming\ConvertingTiming\obj\Debug\ConvertingTiming.exe
+C:\Users\GIGABYTE\source\repos\ConvertingTiming\ConvertingTiming\obj\Debug\ConvertingTiming.pdb

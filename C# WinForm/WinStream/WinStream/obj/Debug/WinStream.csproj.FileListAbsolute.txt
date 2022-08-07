@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\bin\Debug\WinStream.exe.config
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\bin\Debug\WinStream.exe
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\bin\Debug\WinStream.pdb
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\obj\Debug\WinStream.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\obj\Debug\WinStream.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\obj\Debug\WinStream.Form1.resources
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\obj\Debug\WinStream.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\obj\Debug\WinStream.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\obj\Debug\WinStream.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\obj\Debug\WinStream.exe
+C:\Users\GIGABYTE\source\repos\WinStream\WinStream\obj\Debug\WinStream.pdb

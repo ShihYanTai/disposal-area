@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\小山1\小山1\bin\Debug\小山1.exe.config
+C:\Users\GIGABYTE\source\repos\小山1\小山1\bin\Debug\小山1.exe
+C:\Users\GIGABYTE\source\repos\小山1\小山1\bin\Debug\小山1.pdb
+C:\Users\GIGABYTE\source\repos\小山1\小山1\obj\Debug\小山1.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\小山1\小山1\obj\Debug\小山1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\小山1\小山1\obj\Debug\小山1.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\小山1\小山1\obj\Debug\小山1.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\小山1\小山1\obj\Debug\小山1.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\小山1\小山1\obj\Debug\小山1.exe
+C:\Users\GIGABYTE\source\repos\小山1\小山1\obj\Debug\小山1.pdb
+C:\Users\GIGABYTE\source\repos\小山1\小山1\obj\Debug\小山1.Form1.resources

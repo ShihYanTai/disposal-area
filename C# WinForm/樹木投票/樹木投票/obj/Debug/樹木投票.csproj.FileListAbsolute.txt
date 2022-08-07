@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\bin\Debug\樹木投票.exe.config
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\bin\Debug\樹木投票.exe
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\bin\Debug\樹木投票.pdb
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\obj\Debug\樹木投票.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\obj\Debug\樹木投票.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\obj\Debug\樹木投票.Form1.resources
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\obj\Debug\樹木投票.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\obj\Debug\樹木投票.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\obj\Debug\樹木投票.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\obj\Debug\樹木投票.exe
+C:\Users\GIGABYTE\source\repos\樹木投票\樹木投票\obj\Debug\樹木投票.pdb

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProductDBModelStoreContainer" CdmEntityContainer="ProductDBEntities">
+    <EntitySetMapping Name="產品">
+      <EntityTypeMapping TypeName="ProductDBModel.產品">
+        <MappingFragment StoreEntitySet="產品">
+          <ScalarProperty Name="編號" ColumnName="編號" />
+          <ScalarProperty Name="品名" ColumnName="品名" />
+          <ScalarProperty Name="單價" ColumnName="單價" />
+          <ScalarProperty Name="數量" ColumnName="數量" />
+          <ScalarProperty Name="圖示" ColumnName="圖示" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

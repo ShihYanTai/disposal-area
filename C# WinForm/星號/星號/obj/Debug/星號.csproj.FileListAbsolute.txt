@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\星號\星號\bin\Debug\星號.exe.config
+C:\Users\GIGABYTE\source\repos\星號\星號\bin\Debug\星號.exe
+C:\Users\GIGABYTE\source\repos\星號\星號\bin\Debug\星號.pdb
+C:\Users\GIGABYTE\source\repos\星號\星號\obj\Debug\星號.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\星號\星號\obj\Debug\星號.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\星號\星號\obj\Debug\星號.Form1.resources
+C:\Users\GIGABYTE\source\repos\星號\星號\obj\Debug\星號.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\星號\星號\obj\Debug\星號.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\星號\星號\obj\Debug\星號.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\星號\星號\obj\Debug\星號.exe
+C:\Users\GIGABYTE\source\repos\星號\星號\obj\Debug\星號.pdb

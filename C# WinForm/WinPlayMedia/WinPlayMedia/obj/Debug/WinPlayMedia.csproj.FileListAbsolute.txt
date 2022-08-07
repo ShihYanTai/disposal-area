@@ -1,0 +1,16 @@
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\bin\Debug\WinPlayMedia.exe.config
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\bin\Debug\WinPlayMedia.exe
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\bin\Debug\WinPlayMedia.pdb
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\WinPlayMedia.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\WinPlayMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\Interop.WMPLib.dll
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\WinPlayMedia.csproj.ResolveComReference.cache
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\WinPlayMedia.Form1.resources
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\WinPlayMedia.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\WinPlayMedia.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\WinPlayMedia.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\WinPlayMedia.exe
+C:\Users\GIGABYTE\source\repos\WinPlayMedia\WinPlayMedia\obj\Debug\WinPlayMedia.pdb

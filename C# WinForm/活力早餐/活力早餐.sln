@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "活力早餐", "活力早餐\活力早餐.csproj", "{0A246A07-D75E-4D3D-841E-A4BC77E0F79C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A246A07-D75E-4D3D-841E-A4BC77E0F79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A246A07-D75E-4D3D-841E-A4BC77E0F79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A246A07-D75E-4D3D-841E-A4BC77E0F79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A246A07-D75E-4D3D-841E-A4BC77E0F79C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F47A4F8-D82B-4641-A832-2912ACA765BB}
+	EndGlobalSection
+EndGlobal

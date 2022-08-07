@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyDown_1", "KeyDown_1\KeyDown_1.csproj", "{E9A557AE-9629-4DE4-9059-CCC87C62A309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A557AE-9629-4DE4-9059-CCC87C62A309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A557AE-9629-4DE4-9059-CCC87C62A309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A557AE-9629-4DE4-9059-CCC87C62A309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A557AE-9629-4DE4-9059-CCC87C62A309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7988FA0-FD2E-45F5-8F21-E7194D00B0EA}
+	EndGlobalSection
+EndGlobal

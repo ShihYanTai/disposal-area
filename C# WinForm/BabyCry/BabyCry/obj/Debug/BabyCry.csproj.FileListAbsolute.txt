@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\bin\Debug\BabyCry.exe.config
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\bin\Debug\BabyCry.exe
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\bin\Debug\BabyCry.pdb
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\obj\Debug\BabyCry.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\obj\Debug\BabyCry.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\obj\Debug\BabyCry.Form1.resources
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\obj\Debug\BabyCry.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\obj\Debug\BabyCry.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\obj\Debug\BabyCry.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\obj\Debug\BabyCry.exe
+C:\Users\GIGABYTE\source\repos\BabyCry\BabyCry\obj\Debug\BabyCry.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\GIGABYTE\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.pdb

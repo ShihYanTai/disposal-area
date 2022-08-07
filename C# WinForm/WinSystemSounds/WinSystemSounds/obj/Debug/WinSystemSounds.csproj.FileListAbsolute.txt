@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\bin\Debug\WinSystemSounds.exe.config
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\bin\Debug\WinSystemSounds.exe
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\bin\Debug\WinSystemSounds.pdb
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\obj\Debug\WinSystemSounds.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\obj\Debug\WinSystemSounds.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\obj\Debug\WinSystemSounds.Form1.resources
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\obj\Debug\WinSystemSounds.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\obj\Debug\WinSystemSounds.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\obj\Debug\WinSystemSounds.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\obj\Debug\WinSystemSounds.exe
+C:\Users\GIGABYTE\source\repos\WinSystemSounds\WinSystemSounds\obj\Debug\WinSystemSounds.pdb

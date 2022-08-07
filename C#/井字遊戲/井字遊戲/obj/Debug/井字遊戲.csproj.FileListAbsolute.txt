@@ -1,8 +1,0 @@
-C:\Users\GIGABYTE\source\repos\井字遊戲\井字遊戲\bin\Debug\井字遊戲.exe.config
-C:\Users\GIGABYTE\source\repos\井字遊戲\井字遊戲\bin\Debug\井字遊戲.exe
-C:\Users\GIGABYTE\source\repos\井字遊戲\井字遊戲\bin\Debug\井字遊戲.pdb
-C:\Users\GIGABYTE\source\repos\井字遊戲\井字遊戲\obj\Debug\井字遊戲.csproj.AssemblyReference.cache
-C:\Users\GIGABYTE\source\repos\井字遊戲\井字遊戲\obj\Debug\井字遊戲.csproj.SuggestedBindingRedirects.cache
-C:\Users\GIGABYTE\source\repos\井字遊戲\井字遊戲\obj\Debug\井字遊戲.csproj.CoreCompileInputs.cache
-C:\Users\GIGABYTE\source\repos\井字遊戲\井字遊戲\obj\Debug\井字遊戲.exe
-C:\Users\GIGABYTE\source\repos\井字遊戲\井字遊戲\obj\Debug\井字遊戲.pdb

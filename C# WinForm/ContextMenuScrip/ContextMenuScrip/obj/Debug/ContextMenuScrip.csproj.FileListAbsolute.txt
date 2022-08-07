@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\obj\Debug\ContextMenuScrip.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\obj\Debug\ContextMenuScrip.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\obj\Debug\ContextMenuScrip.Form1.resources
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\obj\Debug\ContextMenuScrip.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\obj\Debug\ContextMenuScrip.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\obj\Debug\ContextMenuScrip.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\bin\Debug\ContextMenuScrip.exe.config
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\bin\Debug\ContextMenuScrip.exe
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\bin\Debug\ContextMenuScrip.pdb
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\obj\Debug\ContextMenuScrip.exe
+C:\Users\GIGABYTE\source\repos\ContextMenuScrip\ContextMenuScrip\obj\Debug\ContextMenuScrip.pdb

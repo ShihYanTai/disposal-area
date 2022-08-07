@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\點餐\點餐\bin\Debug\點餐.exe.config
+C:\Users\GIGABYTE\source\repos\點餐\點餐\bin\Debug\點餐.exe
+C:\Users\GIGABYTE\source\repos\點餐\點餐\bin\Debug\點餐.pdb
+C:\Users\GIGABYTE\source\repos\點餐\點餐\obj\Debug\點餐.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\點餐\點餐\obj\Debug\點餐.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\點餐\點餐\obj\Debug\點餐.Form1.resources
+C:\Users\GIGABYTE\source\repos\點餐\點餐\obj\Debug\點餐.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\點餐\點餐\obj\Debug\點餐.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\點餐\點餐\obj\Debug\點餐.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\點餐\點餐\obj\Debug\點餐.exe
+C:\Users\GIGABYTE\source\repos\點餐\點餐\obj\Debug\點餐.pdb

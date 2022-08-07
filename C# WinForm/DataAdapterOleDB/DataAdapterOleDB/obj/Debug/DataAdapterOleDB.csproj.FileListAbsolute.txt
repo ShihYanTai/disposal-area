@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\bin\Debug\DataAdapterOleDB.exe.config
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\bin\Debug\DataAdapterOleDB.exe
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\bin\Debug\DataAdapterOleDB.pdb
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\obj\Debug\DataAdapterOleDB.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\obj\Debug\DataAdapterOleDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\obj\Debug\DataAdapterOleDB.Form1.resources
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\obj\Debug\DataAdapterOleDB.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\obj\Debug\DataAdapterOleDB.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\obj\Debug\DataAdapterOleDB.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\obj\Debug\DataAdapterOleDB.exe
+C:\Users\GIGABYTE\source\repos\DataAdapterOleDB\DataAdapterOleDB\obj\Debug\DataAdapterOleDB.pdb

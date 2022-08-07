@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\bin\Debug\HashtableEx.exe.config
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\bin\Debug\HashtableEx.exe
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\bin\Debug\HashtableEx.pdb
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\obj\Debug\HashtableEx.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\obj\Debug\HashtableEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\obj\Debug\HashtableEx.Form1.resources
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\obj\Debug\HashtableEx.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\obj\Debug\HashtableEx.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\obj\Debug\HashtableEx.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\obj\Debug\HashtableEx.exe
+C:\Users\GIGABYTE\source\repos\HashtableEx\HashtableEx\obj\Debug\HashtableEx.pdb

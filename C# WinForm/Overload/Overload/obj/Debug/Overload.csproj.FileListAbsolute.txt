@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\Overload\Overload\bin\Debug\Overload.exe.config
+C:\Users\GIGABYTE\source\repos\Overload\Overload\bin\Debug\Overload.exe
+C:\Users\GIGABYTE\source\repos\Overload\Overload\bin\Debug\Overload.pdb
+C:\Users\GIGABYTE\source\repos\Overload\Overload\obj\Debug\Overload.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Overload\Overload\obj\Debug\Overload.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Overload\Overload\obj\Debug\Overload.Form1.resources
+C:\Users\GIGABYTE\source\repos\Overload\Overload\obj\Debug\Overload.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Overload\Overload\obj\Debug\Overload.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Overload\Overload\obj\Debug\Overload.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Overload\Overload\obj\Debug\Overload.exe
+C:\Users\GIGABYTE\source\repos\Overload\Overload\obj\Debug\Overload.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\bin\Debug\UserRecord.exe.config
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\bin\Debug\UserRecord.exe
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\bin\Debug\UserRecord.pdb
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\obj\Debug\UserRecord.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\obj\Debug\UserRecord.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\obj\Debug\UserRecord.Form1.resources
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\obj\Debug\UserRecord.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\obj\Debug\UserRecord.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\obj\Debug\UserRecord.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\obj\Debug\UserRecord.exe
+C:\Users\GIGABYTE\source\repos\UserRecord\UserRecord\obj\Debug\UserRecord.pdb

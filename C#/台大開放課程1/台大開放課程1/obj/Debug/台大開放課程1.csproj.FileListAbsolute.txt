@@ -1,8 +1,0 @@
-C:\Users\GIGABYTE\source\repos\台大開放課程1\台大開放課程1\bin\Debug\台大開放課程1.exe.config
-C:\Users\GIGABYTE\source\repos\台大開放課程1\台大開放課程1\bin\Debug\台大開放課程1.exe
-C:\Users\GIGABYTE\source\repos\台大開放課程1\台大開放課程1\bin\Debug\台大開放課程1.pdb
-C:\Users\GIGABYTE\source\repos\台大開放課程1\台大開放課程1\obj\Debug\台大開放課程1.csproj.AssemblyReference.cache
-C:\Users\GIGABYTE\source\repos\台大開放課程1\台大開放課程1\obj\Debug\台大開放課程1.csproj.SuggestedBindingRedirects.cache
-C:\Users\GIGABYTE\source\repos\台大開放課程1\台大開放課程1\obj\Debug\台大開放課程1.csproj.CoreCompileInputs.cache
-C:\Users\GIGABYTE\source\repos\台大開放課程1\台大開放課程1\obj\Debug\台大開放課程1.exe
-C:\Users\GIGABYTE\source\repos\台大開放課程1\台大開放課程1\obj\Debug\台大開放課程1.pdb
