@@ -65,4 +65,56 @@ SELECT TOP(1) customer_number FROM Orders GROUP BY customer_number HAVING count(
 
 with t1 as (select class, count(class) as num from Courses group by class )
 select class from t1 where num >=5
-------------------------------------------------
+
+--------------------------------------------------------------
+
+
+with temp as (
+select  month(sale_date) mon, product_id, seller_id
+	from sales
+	-- where year(sale_date) = 2019
+)
+
+,temp1 as (
+select distinct product_id, case when mon < 4 then 1 when mon < 7 then 2 when mon < 10 then 3 else 4 end as qtr,  seller_id
+	from temp
+)
+
+, temp2 as (
+	select distinct p.product_id, p.product_name, t.qtr, t.seller_id
+	from product p join temp1 t
+	on p.product_id = t.product_id
+)
+
+
+select distinct product_id, product_name
+from temp2 t1
+where qtr = 1 
+except 
+select distinct product_id, product_name
+from temp2 t1
+where qtr <> 1
+
+----------------------------------------------------------------------------
+
+SELECT P.product_id, product_name
+FROM Product P
+JOIN Sales S ON S.product_id = P.product_id
+GROUP BY P.product_id, product_name
+HAVING MAX(sale_date) <= CAST('2019-03-31' AS DATE)
+    AND MIN(sale_date) >= CAST('2019-01-01' AS DATE)
+
+-----------------------------------------------------------------------------
+Select Product.product_id, Product.product_name from Product
+
+/* select IDs which belong to the first 3 months*/
+where product_id IN (Select product_id from Sales where sale_date between '2019-01-01' and '2019-03-31')
+AND
+/* drop IDs which belong to rest of the months */
+product_id NOT IN (Select product_id from Sales where sale_date not between '2019-01-01' and '2019-03-31')
+
+------------------------------------------------------------------------------
+
+with t1 as(select player_id, device_id, event_date, games_played , RANK() OVER   
+    (PARTITION BY player_id ORDER BY event_date ) AS Rankfrom from Activity)
+select player_id, event_date as first_login from t1 where Rankfrom =1
