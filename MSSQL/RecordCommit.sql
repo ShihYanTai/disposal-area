@@ -142,3 +142,11 @@ COUNT(product) AS num_sold,
 STRING_AGG(product, ',') WITHIN GROUP (ORDER BY PRODUCT) AS products
 FROM TMP1
 GROUP BY sell_date
+
+--------------------------------------------------------------------------------------
+with t1 as(select  account, sum(amount) balance
+from Transactions t 
+group by account
+having sum(amount) > 10000)
+select Users.name, t1.balance
+from t1 join Users on (t1.account = Users.account)

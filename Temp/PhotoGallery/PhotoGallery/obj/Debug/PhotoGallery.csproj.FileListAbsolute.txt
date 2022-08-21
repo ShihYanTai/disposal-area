@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Form1.resources
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Users\GIGABYTE\source\repos\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb

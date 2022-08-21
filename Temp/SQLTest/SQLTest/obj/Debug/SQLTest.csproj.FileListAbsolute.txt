@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\bin\Debug\SQLTest.exe.config
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\bin\Debug\SQLTest.exe
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\bin\Debug\SQLTest.pdb
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\obj\Debug\SQLTest.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\obj\Debug\SQLTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\obj\Debug\SQLTest.Form1.resources
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\obj\Debug\SQLTest.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\obj\Debug\SQLTest.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\obj\Debug\SQLTest.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\obj\Debug\SQLTest.exe
+C:\Users\GIGABYTE\source\repos\SQLTest\SQLTest\obj\Debug\SQLTest.pdb

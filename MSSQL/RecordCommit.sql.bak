@@ -118,3 +118,27 @@ product_id NOT IN (Select product_id from Sales where sale_date not between '201
 with t1 as(select player_id, device_id, event_date, games_played , RANK() OVER   
     (PARTITION BY player_id ORDER BY event_date ) AS Rankfrom from Activity)
 select player_id, event_date as first_login from t1 where Rankfrom =1
+
+-------------------------------------------------------------------------------
+
+select x.day, count(x.active_users) active_users
+from 
+(select activity_date day, user_id active_users
+  from activity
+ where activity_date between dateadd(dd, -30, '2019-07-28') and '2019-07-28'
+ group by activity_date, user_id) x
+group by x.day
+
+
+------------------------------------------------------------------------------------
+
+WITH TMP1 AS (
+SELECT DISTINCT sell_date, product
+FROM Activities)
+
+SELECT
+sell_date,
+COUNT(product) AS num_sold,
+STRING_AGG(product, ',') WITHIN GROUP (ORDER BY PRODUCT) AS products
+FROM TMP1
+GROUP BY sell_date
