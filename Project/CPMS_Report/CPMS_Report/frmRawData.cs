@@ -426,7 +426,7 @@ namespace CPMS_Report
             }
         }
 
-        // 以下為常用方法區域
+        // 以下為常用方法區域 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         public static void GridViewMethod(ComboBox DbSelect, ComboBox TableSelect, DateTimePicker dateTimePickerStart, DateTimePicker dateTimePickerEnd, DataGridView TableVeiw, String SelectedItemsInfo, string Create = "CreateDate")
         {
             try
