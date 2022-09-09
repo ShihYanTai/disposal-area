@@ -1,0 +1,10 @@
+D:\problem\產出\CPMS_Report\CPMS_Report\bin\Release\CPMS_Report.exe.config
+D:\problem\產出\CPMS_Report\CPMS_Report\bin\Release\CPMS_Report.exe
+D:\problem\產出\CPMS_Report\CPMS_Report\bin\Release\CPMS_Report.pdb
+D:\problem\產出\CPMS_Report\CPMS_Report\obj\Release\CPMS_Report.csproj.AssemblyReference.cache
+D:\problem\產出\CPMS_Report\CPMS_Report\obj\Release\CPMS_Report.frmRawData.resources
+D:\problem\產出\CPMS_Report\CPMS_Report\obj\Release\CPMS_Report.Properties.Resources.resources
+D:\problem\產出\CPMS_Report\CPMS_Report\obj\Release\CPMS_Report.csproj.GenerateResource.cache
+D:\problem\產出\CPMS_Report\CPMS_Report\obj\Release\CPMS_Report.csproj.CoreCompileInputs.cache
+D:\problem\產出\CPMS_Report\CPMS_Report\obj\Release\CPMS_Report.exe
+D:\problem\產出\CPMS_Report\CPMS_Report\obj\Release\CPMS_Report.pdb
