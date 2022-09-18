@@ -1,0 +1,14 @@
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\bin\Debug\LittleBoy.exe.config
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\bin\Debug\LittleBoy.exe
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\bin\Debug\LittleBoy.pdb
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.Form1.resources
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.exe
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.pdb
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.Form2.resources
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.Form3.resources
+C:\Users\GIGABYTE\source\repos\LittleBoy\LittleBoy\obj\Debug\LittleBoy.Form4.resources
