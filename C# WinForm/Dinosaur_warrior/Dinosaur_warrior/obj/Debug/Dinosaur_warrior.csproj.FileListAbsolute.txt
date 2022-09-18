@@ -13,3 +13,19 @@ C:\Users\GIGABYTE\source\repos\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinos
 C:\Users\GIGABYTE\source\repos\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.Form3.resources
 C:\Users\GIGABYTE\source\repos\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.Form4.resources
 C:\Users\GIGABYTE\source\repos\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.Form5.resources
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\bin\Debug\Dinosaur_warrior.exe.config
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\bin\Debug\Dinosaur_warrior.exe
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\bin\Debug\Dinosaur_warrior.pdb
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.Form1.resources
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.Form2.resources
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.Form3.resources
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.Form4.resources
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.Form5.resources
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.exe
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.pdb
+C:\Users\GIGABYTE\source\repos\disposal area\C# WinForm\Dinosaur_warrior\Dinosaur_warrior\obj\Debug\Dinosaur_warrior.Form6.resources
