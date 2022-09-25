@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\bin\Debug\CLBExercise.exe.config
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\bin\Debug\CLBExercise.exe
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\bin\Debug\CLBExercise.pdb
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\obj\Debug\CLBExercise.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\obj\Debug\CLBExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\obj\Debug\CLBExercise.Form1.resources
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\obj\Debug\CLBExercise.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\obj\Debug\CLBExercise.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\obj\Debug\CLBExercise.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\obj\Debug\CLBExercise.exe
+C:\Users\GIGABYTE\source\repos\CLBExercise\CLBExercise\obj\Debug\CLBExercise.pdb

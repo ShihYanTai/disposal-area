@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\bin\Debug\DeleteArray.exe.config
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\bin\Debug\DeleteArray.exe
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\bin\Debug\DeleteArray.pdb
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\obj\Debug\DeleteArray.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\obj\Debug\DeleteArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\obj\Debug\DeleteArray.Form1.resources
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\obj\Debug\DeleteArray.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\obj\Debug\DeleteArray.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\obj\Debug\DeleteArray.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\obj\Debug\DeleteArray.exe
+C:\Users\GIGABYTE\source\repos\DeleteArray\DeleteArray\obj\Debug\DeleteArray.pdb

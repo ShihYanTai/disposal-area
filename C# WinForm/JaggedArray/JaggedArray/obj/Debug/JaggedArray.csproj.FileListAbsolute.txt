@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.Form1.resources
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Users\GIGABYTE\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.pdb

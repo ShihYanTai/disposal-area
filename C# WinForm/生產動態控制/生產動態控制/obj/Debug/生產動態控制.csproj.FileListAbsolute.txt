@@ -1,0 +1,12 @@
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\bin\Debug\生產動態控制.exe.config
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\bin\Debug\生產動態控制.exe
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\bin\Debug\生產動態控制.pdb
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\obj\Debug\生產動態控制.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\obj\Debug\生產動態控制.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\obj\Debug\生產動態控制.Form1.resources
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\obj\Debug\生產動態控制.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\obj\Debug\生產動態控制.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\obj\Debug\生產動態控制.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\obj\Debug\生產動態控制.exe
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\obj\Debug\生產動態控制.pdb
+C:\Users\GIGABYTE\source\repos\生產動態控制\生產動態控制\obj\Debug\生產動態控制.Form2.resources

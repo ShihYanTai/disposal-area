@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\bin\Debug\ArraySort.exe.config
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\bin\Debug\ArraySort.exe
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\bin\Debug\ArraySort.pdb
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\obj\Debug\ArraySort.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\obj\Debug\ArraySort.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\obj\Debug\ArraySort.Form1.resources
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\obj\Debug\ArraySort.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\obj\Debug\ArraySort.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\obj\Debug\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\obj\Debug\ArraySort.exe
+C:\Users\GIGABYTE\source\repos\ArraySort\ArraySort\obj\Debug\ArraySort.pdb

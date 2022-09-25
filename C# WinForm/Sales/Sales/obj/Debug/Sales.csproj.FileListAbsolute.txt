@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\Sales\Sales\bin\Debug\Sales.exe.config
+C:\Users\GIGABYTE\source\repos\Sales\Sales\bin\Debug\Sales.exe
+C:\Users\GIGABYTE\source\repos\Sales\Sales\bin\Debug\Sales.pdb
+C:\Users\GIGABYTE\source\repos\Sales\Sales\obj\Debug\Sales.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Sales\Sales\obj\Debug\Sales.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Sales\Sales\obj\Debug\Sales.Form1.resources
+C:\Users\GIGABYTE\source\repos\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Sales\Sales\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Sales\Sales\obj\Debug\Sales.exe
+C:\Users\GIGABYTE\source\repos\Sales\Sales\obj\Debug\Sales.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\bin\Debug\srun a procedure.exe.config
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\bin\Debug\srun a procedure.exe
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\bin\Debug\srun a procedure.pdb
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\obj\Debug\srun a procedure.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\obj\Debug\srun a procedure.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\obj\Debug\srun_a_procedure.Form1.resources
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\obj\Debug\srun_a_procedure.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\obj\Debug\srun a procedure.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\obj\Debug\srun a procedure.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\obj\Debug\srun a procedure.exe
+C:\Users\GIGABYTE\source\repos\srun a procedure\srun a procedure\obj\Debug\srun a procedure.pdb
