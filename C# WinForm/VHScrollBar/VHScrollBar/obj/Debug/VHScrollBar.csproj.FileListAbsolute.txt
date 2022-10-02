@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\bin\Debug\VHScrollBar.exe.config
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\bin\Debug\VHScrollBar.exe
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\bin\Debug\VHScrollBar.pdb
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\obj\Debug\VHScrollBar.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\obj\Debug\VHScrollBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\obj\Debug\VHScrollBar.Form1.resources
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\obj\Debug\VHScrollBar.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\obj\Debug\VHScrollBar.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\obj\Debug\VHScrollBar.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\obj\Debug\VHScrollBar.exe
+C:\Users\GIGABYTE\source\repos\VHScrollBar\VHScrollBar\obj\Debug\VHScrollBar.pdb

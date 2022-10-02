@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\bin\Debug\LV動態建立.exe.config
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\bin\Debug\LV動態建立.exe
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\bin\Debug\LV動態建立.pdb
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\obj\Debug\LV動態建立.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\obj\Debug\LV動態建立.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\obj\Debug\LV動態建立.Form1.resources
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\obj\Debug\LV動態建立.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\obj\Debug\LV動態建立.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\obj\Debug\LV動態建立.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\obj\Debug\LV動態建立.exe
+C:\Users\GIGABYTE\source\repos\LV動態建立\LV動態建立\obj\Debug\LV動態建立.pdb

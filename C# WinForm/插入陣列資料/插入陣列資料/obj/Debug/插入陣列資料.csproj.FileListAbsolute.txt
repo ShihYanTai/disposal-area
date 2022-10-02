@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\bin\Debug\插入陣列資料.exe.config
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\bin\Debug\插入陣列資料.exe
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\bin\Debug\插入陣列資料.pdb
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\obj\Debug\插入陣列資料.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\obj\Debug\插入陣列資料.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\obj\Debug\插入陣列資料.Form1.resources
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\obj\Debug\插入陣列資料.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\obj\Debug\插入陣列資料.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\obj\Debug\插入陣列資料.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\obj\Debug\插入陣列資料.exe
+C:\Users\GIGABYTE\source\repos\插入陣列資料\插入陣列資料\obj\Debug\插入陣列資料.pdb

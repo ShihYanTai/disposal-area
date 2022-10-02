@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\bin\Debug\MonthCalendar.exe.config
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\bin\Debug\MonthCalendar.exe
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\bin\Debug\MonthCalendar.pdb
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.Form1.resources
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.exe
+C:\Users\GIGABYTE\source\repos\MonthCalendar\MonthCalendar\obj\Debug\MonthCalendar.pdb

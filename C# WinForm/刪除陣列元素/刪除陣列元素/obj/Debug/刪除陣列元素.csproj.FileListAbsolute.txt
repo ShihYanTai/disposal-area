@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\obj\Debug\刪除陣列元素.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\obj\Debug\刪除陣列元素.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\obj\Debug\刪除陣列元素.Form1.resources
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\obj\Debug\刪除陣列元素.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\obj\Debug\刪除陣列元素.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\obj\Debug\刪除陣列元素.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\bin\Debug\刪除陣列元素.exe.config
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\bin\Debug\刪除陣列元素.exe
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\bin\Debug\刪除陣列元素.pdb
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\obj\Debug\刪除陣列元素.exe
+C:\Users\GIGABYTE\source\repos\刪除陣列元素\刪除陣列元素\obj\Debug\刪除陣列元素.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\bin\Debug\電腦周邊採買.exe.config
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\bin\Debug\電腦周邊採買.exe
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\bin\Debug\電腦周邊採買.pdb
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\obj\Debug\電腦周邊採買.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\obj\Debug\電腦周邊採買.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\obj\Debug\電腦周邊採買.Form1.resources
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\obj\Debug\電腦周邊採買.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\obj\Debug\電腦周邊採買.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\obj\Debug\電腦周邊採買.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\obj\Debug\電腦周邊採買.exe
+C:\Users\GIGABYTE\source\repos\電腦周邊採買\電腦周邊採買\obj\Debug\電腦周邊採買.pdb

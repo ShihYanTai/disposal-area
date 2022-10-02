@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\bin\Debug\MaskedTB.exe.config
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\bin\Debug\MaskedTB.exe
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\bin\Debug\MaskedTB.pdb
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\obj\Debug\MaskedTB.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\obj\Debug\MaskedTB.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\obj\Debug\MaskedTB.Form1.resources
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\obj\Debug\MaskedTB.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\obj\Debug\MaskedTB.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\obj\Debug\MaskedTB.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\obj\Debug\MaskedTB.exe
+C:\Users\GIGABYTE\source\repos\MaskedTB\MaskedTB\obj\Debug\MaskedTB.pdb

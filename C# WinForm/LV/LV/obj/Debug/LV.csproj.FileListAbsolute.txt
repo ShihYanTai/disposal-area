@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\LV\LV\bin\Debug\LV.exe.config
+C:\Users\GIGABYTE\source\repos\LV\LV\bin\Debug\LV.exe
+C:\Users\GIGABYTE\source\repos\LV\LV\bin\Debug\LV.pdb
+C:\Users\GIGABYTE\source\repos\LV\LV\obj\Debug\LV.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\LV\LV\obj\Debug\LV.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\LV\LV\obj\Debug\LV.Form1.resources
+C:\Users\GIGABYTE\source\repos\LV\LV\obj\Debug\LV.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\LV\LV\obj\Debug\LV.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\LV\LV\obj\Debug\LV.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\LV\LV\obj\Debug\LV.exe
+C:\Users\GIGABYTE\source\repos\LV\LV\obj\Debug\LV.pdb

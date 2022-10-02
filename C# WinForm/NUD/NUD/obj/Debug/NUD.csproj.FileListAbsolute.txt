@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\NUD\NUD\bin\Debug\NUD.exe.config
+C:\Users\GIGABYTE\source\repos\NUD\NUD\bin\Debug\NUD.exe
+C:\Users\GIGABYTE\source\repos\NUD\NUD\bin\Debug\NUD.pdb
+C:\Users\GIGABYTE\source\repos\NUD\NUD\obj\Debug\NUD.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\NUD\NUD\obj\Debug\NUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\NUD\NUD\obj\Debug\NUD.Form1.resources
+C:\Users\GIGABYTE\source\repos\NUD\NUD\obj\Debug\NUD.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\NUD\NUD\obj\Debug\NUD.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\NUD\NUD\obj\Debug\NUD.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\NUD\NUD\obj\Debug\NUD.exe
+C:\Users\GIGABYTE\source\repos\NUD\NUD\obj\Debug\NUD.pdb
