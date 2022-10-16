@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\bin\Debug\enum_order.exe.config
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\bin\Debug\enum_order.exe
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\bin\Debug\enum_order.pdb
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\obj\Debug\enum_order.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\obj\Debug\enum_order.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\obj\Debug\enum_order.Form1.resources
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\obj\Debug\enum_order.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\obj\Debug\enum_order.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\obj\Debug\enum_order.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\obj\Debug\enum_order.exe
+C:\Users\GIGABYTE\source\repos\enum_order\enum_order\obj\Debug\enum_order.pdb

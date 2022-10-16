@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\區域\區域\bin\Debug\區域.exe.config
+C:\Users\GIGABYTE\source\repos\區域\區域\bin\Debug\區域.exe
+C:\Users\GIGABYTE\source\repos\區域\區域\bin\Debug\區域.pdb
+C:\Users\GIGABYTE\source\repos\區域\區域\obj\Debug\區域.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\區域\區域\obj\Debug\區域.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\區域\區域\obj\Debug\區域.Form1.resources
+C:\Users\GIGABYTE\source\repos\區域\區域\obj\Debug\區域.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\區域\區域\obj\Debug\區域.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\區域\區域\obj\Debug\區域.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\區域\區域\obj\Debug\區域.exe
+C:\Users\GIGABYTE\source\repos\區域\區域\obj\Debug\區域.pdb

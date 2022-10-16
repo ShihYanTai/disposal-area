@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\obj\Debug\enum_base.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\obj\Debug\enum_base.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\obj\Debug\enum_base.Form1.resources
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\obj\Debug\enum_base.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\obj\Debug\enum_base.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\obj\Debug\enum_base.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\bin\Debug\enum_base.exe.config
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\bin\Debug\enum_base.exe
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\bin\Debug\enum_base.pdb
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\obj\Debug\enum_base.exe
+C:\Users\GIGABYTE\source\repos\enum_base\enum_base\obj\Debug\enum_base.pdb

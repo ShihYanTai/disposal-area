@@ -1,0 +1,12 @@
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\bin\Debug\視窗表單布局.exe.config
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\bin\Debug\視窗表單布局.exe
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\bin\Debug\視窗表單布局.pdb
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\obj\Debug\視窗表單布局.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\obj\Debug\視窗表單布局.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\obj\Debug\視窗表單布局.Form1.resources
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\obj\Debug\視窗表單布局.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\obj\Debug\視窗表單布局.Resource1.resources
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\obj\Debug\視窗表單布局.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\obj\Debug\視窗表單布局.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\obj\Debug\視窗表單布局.exe
+C:\Users\GIGABYTE\source\repos\視窗表單布局\視窗表單布局\obj\Debug\視窗表單布局.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\bin\Debug\可變數量參數.exe.config
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\bin\Debug\可變數量參數.exe
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\bin\Debug\可變數量參數.pdb
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\obj\Debug\可變數量參數.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\obj\Debug\可變數量參數.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\obj\Debug\可變數量參數.Form1.resources
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\obj\Debug\可變數量參數.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\obj\Debug\可變數量參數.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\obj\Debug\可變數量參數.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\obj\Debug\可變數量參數.exe
+C:\Users\GIGABYTE\source\repos\可變數量參數\可變數量參數\obj\Debug\可變數量參數.pdb
