@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\bin\Debug\enum_byte_flag.exe.config
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\bin\Debug\enum_byte_flag.exe
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\bin\Debug\enum_byte_flag.pdb
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\obj\Debug\enum_byte_flag.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\obj\Debug\enum_byte_flag.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\obj\Debug\enum_byte_flag.Form1.resources
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\obj\Debug\enum_byte_flag.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\obj\Debug\enum_byte_flag.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\obj\Debug\enum_byte_flag.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\obj\Debug\enum_byte_flag.exe
+C:\Users\GIGABYTE\source\repos\enum_byte_flag\enum_byte_flag\obj\Debug\enum_byte_flag.pdb

@@ -1,0 +1,12 @@
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\bin\Debug\struct_advance.exe.config
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\bin\Debug\struct_advance.exe
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\bin\Debug\struct_advance.pdb
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\obj\Debug\struct_advance.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\obj\Debug\struct_advance.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\obj\Debug\struct_advance.Form1.resources
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\obj\Debug\struct_advance.Form2.resources
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\obj\Debug\struct_advance.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\obj\Debug\struct_advance.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\obj\Debug\struct_advance.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\obj\Debug\struct_advance.exe
+C:\Users\GIGABYTE\source\repos\struct_advance\struct_advance\obj\Debug\struct_advance.pdb

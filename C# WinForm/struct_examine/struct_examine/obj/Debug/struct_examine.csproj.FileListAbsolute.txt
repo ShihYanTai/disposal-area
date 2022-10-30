@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\bin\Debug\struct_examine.exe.config
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\bin\Debug\struct_examine.exe
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\bin\Debug\struct_examine.pdb
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\obj\Debug\struct_examine.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\obj\Debug\struct_examine.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\obj\Debug\struct_examine.Form1.resources
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\obj\Debug\struct_examine.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\obj\Debug\struct_examine.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\obj\Debug\struct_examine.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\obj\Debug\struct_examine.exe
+C:\Users\GIGABYTE\source\repos\struct_examine\struct_examine\obj\Debug\struct_examine.pdb
