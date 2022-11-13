@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\imitation\imitation\bin\Debug\imitation.exe.config
+C:\Users\GIGABYTE\source\repos\imitation\imitation\bin\Debug\imitation.exe
+C:\Users\GIGABYTE\source\repos\imitation\imitation\bin\Debug\imitation.pdb
+C:\Users\GIGABYTE\source\repos\imitation\imitation\obj\Debug\imitation.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\imitation\imitation\obj\Debug\imitation.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\imitation\imitation\obj\Debug\imitation.Form1.resources
+C:\Users\GIGABYTE\source\repos\imitation\imitation\obj\Debug\imitation.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\imitation\imitation\obj\Debug\imitation.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\imitation\imitation\obj\Debug\imitation.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\imitation\imitation\obj\Debug\imitation.exe
+C:\Users\GIGABYTE\source\repos\imitation\imitation\obj\Debug\imitation.pdb

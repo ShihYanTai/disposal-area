@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\bin\Debug\_Stream_Reader.exe.config
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\bin\Debug\_Stream_Reader.exe
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\bin\Debug\_Stream_Reader.pdb
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\obj\Debug\_Stream_Reader.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\obj\Debug\_Stream_Reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\obj\Debug\_Stream_Reader.Form1.resources
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\obj\Debug\_Stream_Reader.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\obj\Debug\_Stream_Reader.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\obj\Debug\_Stream_Reader.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\obj\Debug\_Stream_Reader.exe
+C:\Users\GIGABYTE\source\repos\_Stream_Reader\_Stream_Reader\obj\Debug\_Stream_Reader.pdb

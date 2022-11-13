@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\File_test\File_test\bin\Debug\File_test.exe.config
+C:\Users\GIGABYTE\source\repos\File_test\File_test\bin\Debug\File_test.exe
+C:\Users\GIGABYTE\source\repos\File_test\File_test\bin\Debug\File_test.pdb
+C:\Users\GIGABYTE\source\repos\File_test\File_test\obj\Debug\File_test.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\File_test\File_test\obj\Debug\File_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\File_test\File_test\obj\Debug\File_test.Form1.resources
+C:\Users\GIGABYTE\source\repos\File_test\File_test\obj\Debug\File_test.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\File_test\File_test\obj\Debug\File_test.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\File_test\File_test\obj\Debug\File_test.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\File_test\File_test\obj\Debug\File_test.exe
+C:\Users\GIGABYTE\source\repos\File_test\File_test\obj\Debug\File_test.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\bin\Debug\_Stream_Writer.exe.config
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\bin\Debug\_Stream_Writer.exe
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\bin\Debug\_Stream_Writer.pdb
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\obj\Debug\_Stream_Writer.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\obj\Debug\_Stream_Writer.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\obj\Debug\_Stream_Writer.Form1.resources
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\obj\Debug\_Stream_Writer.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\obj\Debug\_Stream_Writer.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\obj\Debug\_Stream_Writer.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\obj\Debug\_Stream_Writer.exe
+C:\Users\GIGABYTE\source\repos\_Stream_Writer\_Stream_Writer\obj\Debug\_Stream_Writer.pdb

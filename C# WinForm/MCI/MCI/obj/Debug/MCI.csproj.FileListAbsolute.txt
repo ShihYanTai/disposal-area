@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\MCI\MCI\obj\Debug\MCI.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\MCI\MCI\obj\Debug\MCI.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\MCI\MCI\obj\Debug\MCI.Form1.resources
+C:\Users\GIGABYTE\source\repos\MCI\MCI\obj\Debug\MCI.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\MCI\MCI\obj\Debug\MCI.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\MCI\MCI\obj\Debug\MCI.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\MCI\MCI\bin\Debug\MCI.exe.config
+C:\Users\GIGABYTE\source\repos\MCI\MCI\bin\Debug\MCI.exe
+C:\Users\GIGABYTE\source\repos\MCI\MCI\bin\Debug\MCI.pdb
+C:\Users\GIGABYTE\source\repos\MCI\MCI\obj\Debug\MCI.exe
+C:\Users\GIGABYTE\source\repos\MCI\MCI\obj\Debug\MCI.pdb

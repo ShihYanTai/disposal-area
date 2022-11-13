@@ -1,0 +1,16 @@
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\bin\Debug\Windows_Media_Player.exe.config
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\bin\Debug\Windows_Media_Player.exe
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\bin\Debug\Windows_Media_Player.pdb
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\Windows_Media_Player.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\Windows_Media_Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\Windows_Media_Player.csproj.ResolveComReference.cache
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\Windows_Media_Player.Form1.resources
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\Windows_Media_Player.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\Windows_Media_Player.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\Windows_Media_Player.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\Windows_Media_Player.exe
+C:\Users\GIGABYTE\source\repos\Windows_Media_Player\Windows_Media_Player\obj\Debug\Windows_Media_Player.pdb

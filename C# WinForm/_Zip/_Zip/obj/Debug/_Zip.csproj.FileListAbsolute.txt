@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\bin\Debug\_Zip.exe.config
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\bin\Debug\_Zip.exe
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\bin\Debug\_Zip.pdb
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\obj\Debug\_Zip.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\obj\Debug\_Zip.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\obj\Debug\_Zip.Form1.resources
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\obj\Debug\_Zip.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\obj\Debug\_Zip.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\obj\Debug\_Zip.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\obj\Debug\_Zip.exe
+C:\Users\GIGABYTE\source\repos\_Zip\_Zip\obj\Debug\_Zip.pdb
