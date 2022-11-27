@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\bin\Debug\基本形狀.exe.config
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\bin\Debug\基本形狀.exe
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\bin\Debug\基本形狀.pdb
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\obj\Debug\基本形狀.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\obj\Debug\基本形狀.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\obj\Debug\基本形狀.Form1.resources
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\obj\Debug\基本形狀.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\obj\Debug\基本形狀.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\obj\Debug\基本形狀.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\obj\Debug\基本形狀.exe
+C:\Users\GIGABYTE\source\repos\基本形狀\基本形狀\obj\Debug\基本形狀.pdb

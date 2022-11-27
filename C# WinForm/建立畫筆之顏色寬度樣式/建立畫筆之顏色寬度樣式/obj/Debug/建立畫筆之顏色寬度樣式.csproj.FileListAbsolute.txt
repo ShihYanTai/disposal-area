@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\bin\Debug\建立畫筆之顏色寬度樣式.exe.config
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\bin\Debug\建立畫筆之顏色寬度樣式.exe
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\bin\Debug\建立畫筆之顏色寬度樣式.pdb
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\obj\Debug\建立畫筆之顏色寬度樣式.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\obj\Debug\建立畫筆之顏色寬度樣式.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\obj\Debug\建立畫筆之顏色寬度樣式.Form1.resources
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\obj\Debug\建立畫筆之顏色寬度樣式.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\obj\Debug\建立畫筆之顏色寬度樣式.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\obj\Debug\建立畫筆之顏色寬度樣式.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\obj\Debug\建立畫筆之顏色寬度樣式.exe
+C:\Users\GIGABYTE\source\repos\建立畫筆之顏色寬度樣式\建立畫筆之顏色寬度樣式\obj\Debug\建立畫筆之顏色寬度樣式.pdb

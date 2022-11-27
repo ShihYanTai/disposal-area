@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\bin\Debug\建立Graphics.exe.config
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\bin\Debug\建立Graphics.exe
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\bin\Debug\建立Graphics.pdb
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\obj\Debug\建立Graphics.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\obj\Debug\建立Graphics.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\obj\Debug\建立Graphics.Form1.resources
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\obj\Debug\建立Graphics.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\obj\Debug\建立Graphics.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\obj\Debug\建立Graphics.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\obj\Debug\建立Graphics.exe
+C:\Users\GIGABYTE\source\repos\建立Graphics\建立Graphics\obj\Debug\建立Graphics.pdb

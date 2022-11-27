@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\bin\Debug\繪製文字.exe.config
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\bin\Debug\繪製文字.exe
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\bin\Debug\繪製文字.pdb
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\obj\Debug\繪製文字.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\obj\Debug\繪製文字.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\obj\Debug\繪製文字.Form1.resources
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\obj\Debug\繪製文字.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\obj\Debug\繪製文字.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\obj\Debug\繪製文字.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\obj\Debug\繪製文字.exe
+C:\Users\GIGABYTE\source\repos\繪製文字\繪製文字\obj\Debug\繪製文字.pdb

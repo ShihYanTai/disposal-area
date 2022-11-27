@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\bin\Debug\隨機產生顏色.exe.config
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\bin\Debug\隨機產生顏色.exe
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\bin\Debug\隨機產生顏色.pdb
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\obj\Debug\隨機產生顏色.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\obj\Debug\隨機產生顏色.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\obj\Debug\隨機產生顏色.Form1.resources
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\obj\Debug\隨機產生顏色.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\obj\Debug\隨機產生顏色.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\obj\Debug\隨機產生顏色.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\obj\Debug\隨機產生顏色.exe
+C:\Users\GIGABYTE\source\repos\隨機產生顏色\隨機產生顏色\obj\Debug\隨機產生顏色.pdb

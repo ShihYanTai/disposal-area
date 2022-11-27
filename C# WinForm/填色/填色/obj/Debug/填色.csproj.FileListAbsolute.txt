@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\填色\填色\bin\Debug\填色.exe.config
+C:\Users\GIGABYTE\source\repos\填色\填色\bin\Debug\填色.exe
+C:\Users\GIGABYTE\source\repos\填色\填色\bin\Debug\填色.pdb
+C:\Users\GIGABYTE\source\repos\填色\填色\obj\Debug\填色.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\填色\填色\obj\Debug\填色.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\填色\填色\obj\Debug\填色.Form1.resources
+C:\Users\GIGABYTE\source\repos\填色\填色\obj\Debug\填色.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\填色\填色\obj\Debug\填色.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\填色\填色\obj\Debug\填色.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\填色\填色\obj\Debug\填色.exe
+C:\Users\GIGABYTE\source\repos\填色\填色\obj\Debug\填色.pdb
