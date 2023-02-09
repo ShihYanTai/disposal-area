@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\bin\Debug\靜態成員.exe.config
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\bin\Debug\靜態成員.exe
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\bin\Debug\靜態成員.pdb
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\obj\Debug\靜態成員.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\obj\Debug\靜態成員.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\obj\Debug\靜態成員.Form1.resources
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\obj\Debug\靜態成員.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\obj\Debug\靜態成員.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\obj\Debug\靜態成員.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\obj\Debug\靜態成員.exe
+C:\Users\GIGABYTE\source\repos\靜態成員\靜態成員\obj\Debug\靜態成員.pdb

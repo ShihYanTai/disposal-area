@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\bin\Debug\執行緒.exe.config
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\bin\Debug\執行緒.exe
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\bin\Debug\執行緒.pdb
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\obj\Debug\執行緒.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\obj\Debug\執行緒.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\obj\Debug\執行緒.Form1.resources
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\obj\Debug\執行緒.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\obj\Debug\執行緒.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\obj\Debug\執行緒.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\obj\Debug\執行緒.exe
+C:\Users\GIGABYTE\source\repos\執行緒\執行緒\obj\Debug\執行緒.pdb

@@ -1,0 +1,12 @@
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\bin\Debug\表單傳遞資料2.exe.config
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\bin\Debug\表單傳遞資料2.exe
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\bin\Debug\表單傳遞資料2.pdb
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\obj\Debug\表單傳遞資料2.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\obj\Debug\表單傳遞資料2.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\obj\Debug\表單傳遞資料2.Form1.resources
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\obj\Debug\表單傳遞資料2.Form2.resources
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\obj\Debug\表單傳遞資料2.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\obj\Debug\表單傳遞資料2.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\obj\Debug\表單傳遞資料2.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\obj\Debug\表單傳遞資料2.exe
+C:\Users\GIGABYTE\source\repos\表單傳遞資料2\表單傳遞資料2\obj\Debug\表單傳遞資料2.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\bin\Debug\委派-Multicast.exe.config
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\bin\Debug\委派-Multicast.exe
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\bin\Debug\委派-Multicast.pdb
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\obj\Debug\委派-Multicast.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\obj\Debug\委派-Multicast.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\obj\Debug\委派_Multicast.Form1.resources
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\obj\Debug\委派_Multicast.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\obj\Debug\委派-Multicast.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\obj\Debug\委派-Multicast.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\obj\Debug\委派-Multicast.exe
+C:\Users\GIGABYTE\source\repos\委派-Multicast\委派-Multicast\obj\Debug\委派-Multicast.pdb

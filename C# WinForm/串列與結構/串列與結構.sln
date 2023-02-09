@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "串列與結構", "串列與結構\串列與結構.csproj", "{1AF408C0-3973-491F-B32B-4B773F59360E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF408C0-3973-491F-B32B-4B773F59360E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF408C0-3973-491F-B32B-4B773F59360E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF408C0-3973-491F-B32B-4B773F59360E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF408C0-3973-491F-B32B-4B773F59360E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98F68DA-CA48-44AB-99C5-1418F484E64B}
+	EndGlobalSection
+EndGlobal

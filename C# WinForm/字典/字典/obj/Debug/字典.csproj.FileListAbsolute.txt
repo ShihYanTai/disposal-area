@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\字典\字典\bin\Debug\字典.exe.config
+C:\Users\GIGABYTE\source\repos\字典\字典\bin\Debug\字典.exe
+C:\Users\GIGABYTE\source\repos\字典\字典\bin\Debug\字典.pdb
+C:\Users\GIGABYTE\source\repos\字典\字典\obj\Debug\字典.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\字典\字典\obj\Debug\字典.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\字典\字典\obj\Debug\字典.Form1.resources
+C:\Users\GIGABYTE\source\repos\字典\字典\obj\Debug\字典.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\字典\字典\obj\Debug\字典.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\字典\字典\obj\Debug\字典.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\字典\字典\obj\Debug\字典.exe
+C:\Users\GIGABYTE\source\repos\字典\字典\obj\Debug\字典.pdb

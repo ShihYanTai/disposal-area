@@ -1,0 +1,12 @@
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\bin\Debug\Multiple-document interface.exe.config
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\bin\Debug\Multiple-document interface.exe
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\bin\Debug\Multiple-document interface.pdb
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\obj\Debug\Multiple-document interface.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\obj\Debug\Multiple-document interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\obj\Debug\Multiple_document_interface.Form1.resources
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\obj\Debug\Multiple_document_interface.Form2.resources
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\obj\Debug\Multiple_document_interface.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\obj\Debug\Multiple-document interface.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\obj\Debug\Multiple-document interface.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\obj\Debug\Multiple-document interface.exe
+C:\Users\GIGABYTE\source\repos\Multiple-document interface\Multiple-document interface\obj\Debug\Multiple-document interface.pdb

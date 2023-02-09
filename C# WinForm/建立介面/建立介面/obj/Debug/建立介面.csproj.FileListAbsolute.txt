@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\bin\Debug\建立介面.exe.config
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\bin\Debug\建立介面.exe
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\bin\Debug\建立介面.pdb
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\obj\Debug\建立介面.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\obj\Debug\建立介面.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\obj\Debug\建立介面.Form1.resources
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\obj\Debug\建立介面.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\obj\Debug\建立介面.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\obj\Debug\建立介面.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\obj\Debug\建立介面.exe
+C:\Users\GIGABYTE\source\repos\建立介面\建立介面\obj\Debug\建立介面.pdb

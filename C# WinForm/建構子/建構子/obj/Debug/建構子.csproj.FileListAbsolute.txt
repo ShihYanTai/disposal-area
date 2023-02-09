@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\建構子\建構子\bin\Debug\建構子.exe.config
+C:\Users\GIGABYTE\source\repos\建構子\建構子\bin\Debug\建構子.exe
+C:\Users\GIGABYTE\source\repos\建構子\建構子\bin\Debug\建構子.pdb
+C:\Users\GIGABYTE\source\repos\建構子\建構子\obj\Debug\建構子.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\建構子\建構子\obj\Debug\建構子.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\建構子\建構子\obj\Debug\建構子.Form1.resources
+C:\Users\GIGABYTE\source\repos\建構子\建構子\obj\Debug\建構子.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\建構子\建構子\obj\Debug\建構子.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\建構子\建構子\obj\Debug\建構子.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\建構子\建構子\obj\Debug\建構子.exe
+C:\Users\GIGABYTE\source\repos\建構子\建構子\obj\Debug\建構子.pdb

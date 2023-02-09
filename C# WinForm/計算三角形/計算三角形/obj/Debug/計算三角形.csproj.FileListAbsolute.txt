@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\bin\Debug\計算三角形.exe.config
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\bin\Debug\計算三角形.exe
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\bin\Debug\計算三角形.pdb
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\obj\Debug\計算三角形.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\obj\Debug\計算三角形.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\obj\Debug\計算三角形.Form1.resources
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\obj\Debug\計算三角形.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\obj\Debug\計算三角形.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\obj\Debug\計算三角形.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\obj\Debug\計算三角形.exe
+C:\Users\GIGABYTE\source\repos\計算三角形\計算三角形\obj\Debug\計算三角形.pdb

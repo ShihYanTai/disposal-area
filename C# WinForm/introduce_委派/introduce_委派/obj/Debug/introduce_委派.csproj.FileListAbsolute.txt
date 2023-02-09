@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\bin\Debug\introduce_委派.exe.config
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\bin\Debug\introduce_委派.exe
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\bin\Debug\introduce_委派.pdb
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\obj\Debug\introduce_委派.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\obj\Debug\introduce_委派.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\obj\Debug\introduce_委派.Form1.resources
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\obj\Debug\introduce_委派.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\obj\Debug\introduce_委派.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\obj\Debug\introduce_委派.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\obj\Debug\introduce_委派.exe
+C:\Users\GIGABYTE\source\repos\introduce_委派\introduce_委派\obj\Debug\introduce_委派.pdb

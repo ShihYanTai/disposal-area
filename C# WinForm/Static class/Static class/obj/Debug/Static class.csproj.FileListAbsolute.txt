@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\Static class\Static class\bin\Debug\Static class.exe.config
+C:\Users\GIGABYTE\source\repos\Static class\Static class\bin\Debug\Static class.exe
+C:\Users\GIGABYTE\source\repos\Static class\Static class\bin\Debug\Static class.pdb
+C:\Users\GIGABYTE\source\repos\Static class\Static class\obj\Debug\Static class.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Static class\Static class\obj\Debug\Static class.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Static class\Static class\obj\Debug\Static_class.Form1.resources
+C:\Users\GIGABYTE\source\repos\Static class\Static class\obj\Debug\Static_class.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Static class\Static class\obj\Debug\Static class.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Static class\Static class\obj\Debug\Static class.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Static class\Static class\obj\Debug\Static class.exe
+C:\Users\GIGABYTE\source\repos\Static class\Static class\obj\Debug\Static class.pdb

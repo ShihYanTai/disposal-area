@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\bin\Debug\影像繪製縮放.exe.config
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\bin\Debug\影像繪製縮放.exe
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\bin\Debug\影像繪製縮放.pdb
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\obj\Debug\影像繪製縮放.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\obj\Debug\影像繪製縮放.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\obj\Debug\影像繪製縮放.Form1.resources
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\obj\Debug\影像繪製縮放.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\obj\Debug\影像繪製縮放.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\obj\Debug\影像繪製縮放.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\obj\Debug\影像繪製縮放.exe
+C:\Users\GIGABYTE\source\repos\影像繪製縮放\影像繪製縮放\obj\Debug\影像繪製縮放.pdb

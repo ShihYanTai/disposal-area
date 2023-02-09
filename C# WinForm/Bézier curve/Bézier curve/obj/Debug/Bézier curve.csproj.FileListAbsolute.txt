@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\bin\Debug\Bézier curve.exe.config
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\bin\Debug\Bézier curve.exe
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\bin\Debug\Bézier curve.pdb
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\obj\Debug\Bézier curve.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\obj\Debug\Bézier curve.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\obj\Debug\Bézier_curve.Form1.resources
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\obj\Debug\Bézier_curve.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\obj\Debug\Bézier curve.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\obj\Debug\Bézier curve.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\obj\Debug\Bézier curve.exe
+C:\Users\GIGABYTE\source\repos\Bézier curve\Bézier curve\obj\Debug\Bézier curve.pdb

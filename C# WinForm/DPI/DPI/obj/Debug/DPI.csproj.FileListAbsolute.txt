@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\DPI\DPI\bin\Debug\DPI.exe.config
+C:\Users\GIGABYTE\source\repos\DPI\DPI\bin\Debug\DPI.exe
+C:\Users\GIGABYTE\source\repos\DPI\DPI\bin\Debug\DPI.pdb
+C:\Users\GIGABYTE\source\repos\DPI\DPI\obj\Debug\DPI.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\DPI\DPI\obj\Debug\DPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\DPI\DPI\obj\Debug\DPI.Form1.resources
+C:\Users\GIGABYTE\source\repos\DPI\DPI\obj\Debug\DPI.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\DPI\DPI\obj\Debug\DPI.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\DPI\DPI\obj\Debug\DPI.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\DPI\DPI\obj\Debug\DPI.exe
+C:\Users\GIGABYTE\source\repos\DPI\DPI\obj\Debug\DPI.pdb

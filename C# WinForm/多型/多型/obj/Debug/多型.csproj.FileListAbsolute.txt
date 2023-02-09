@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\多型\多型\bin\Debug\多型.exe.config
+C:\Users\GIGABYTE\source\repos\多型\多型\bin\Debug\多型.exe
+C:\Users\GIGABYTE\source\repos\多型\多型\bin\Debug\多型.pdb
+C:\Users\GIGABYTE\source\repos\多型\多型\obj\Debug\多型.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\多型\多型\obj\Debug\多型.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\多型\多型\obj\Debug\多型.Form1.resources
+C:\Users\GIGABYTE\source\repos\多型\多型\obj\Debug\多型.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\多型\多型\obj\Debug\多型.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\多型\多型\obj\Debug\多型.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\多型\多型\obj\Debug\多型.exe
+C:\Users\GIGABYTE\source\repos\多型\多型\obj\Debug\多型.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\bin\Debug\串列處裡.exe.config
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\bin\Debug\串列處裡.exe
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\bin\Debug\串列處裡.pdb
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\obj\Debug\串列處裡.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\obj\Debug\串列處裡.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\obj\Debug\串列處裡.Form1.resources
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\obj\Debug\串列處裡.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\obj\Debug\串列處裡.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\obj\Debug\串列處裡.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\obj\Debug\串列處裡.exe
+C:\Users\GIGABYTE\source\repos\串列處裡\串列處裡\obj\Debug\串列處裡.pdb

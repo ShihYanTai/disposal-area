@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "影像基本處裡", "影像基本處裡\影像基本處裡.csproj", "{CA893369-8018-4A7D-A1CE-6E8D0A1F5716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA893369-8018-4A7D-A1CE-6E8D0A1F5716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA893369-8018-4A7D-A1CE-6E8D0A1F5716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA893369-8018-4A7D-A1CE-6E8D0A1F5716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA893369-8018-4A7D-A1CE-6E8D0A1F5716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C49FD3EB-1A44-4A0A-862C-7A448FDD0ACC}
+	EndGlobalSection
+EndGlobal

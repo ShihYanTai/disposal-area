@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\bin\Debug\影像繪圖.exe.config
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\bin\Debug\影像繪圖.exe
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\bin\Debug\影像繪圖.pdb
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\obj\Debug\影像繪圖.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\obj\Debug\影像繪圖.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\obj\Debug\影像繪圖.Form1.resources
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\obj\Debug\影像繪圖.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\obj\Debug\影像繪圖.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\obj\Debug\影像繪圖.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\obj\Debug\影像繪圖.exe
+C:\Users\GIGABYTE\source\repos\影像繪圖\影像繪圖\obj\Debug\影像繪圖.pdb

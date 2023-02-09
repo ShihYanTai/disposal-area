@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\bin\Debug\建立類別與物件.exe.config
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\bin\Debug\建立類別與物件.exe
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\bin\Debug\建立類別與物件.pdb
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\obj\Debug\建立類別與物件.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\obj\Debug\建立類別與物件.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\obj\Debug\建立類別與物件.Form1.resources
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\obj\Debug\建立類別與物件.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\obj\Debug\建立類別與物件.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\obj\Debug\建立類別與物件.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\obj\Debug\建立類別與物件.exe
+C:\Users\GIGABYTE\source\repos\建立類別與物件\建立類別與物件\obj\Debug\建立類別與物件.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\bin\Debug\快速影像處理.exe.config
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\bin\Debug\快速影像處理.exe
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\bin\Debug\快速影像處理.pdb
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\obj\Debug\快速影像處理.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\obj\Debug\快速影像處理.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\obj\Debug\快速影像處理.Form1.resources
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\obj\Debug\快速影像處理.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\obj\Debug\快速影像處理.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\obj\Debug\快速影像處理.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\obj\Debug\快速影像處理.exe
+C:\Users\GIGABYTE\source\repos\快速影像處理\快速影像處理\obj\Debug\快速影像處理.pdb

@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\索引子\索引子\obj\Debug\索引子.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\索引子\索引子\obj\Debug\索引子.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\索引子\索引子\obj\Debug\索引子.Form1.resources
+C:\Users\GIGABYTE\source\repos\索引子\索引子\obj\Debug\索引子.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\索引子\索引子\obj\Debug\索引子.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\索引子\索引子\obj\Debug\索引子.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\索引子\索引子\bin\Debug\索引子.exe.config
+C:\Users\GIGABYTE\source\repos\索引子\索引子\bin\Debug\索引子.exe
+C:\Users\GIGABYTE\source\repos\索引子\索引子\bin\Debug\索引子.pdb
+C:\Users\GIGABYTE\source\repos\索引子\索引子\obj\Debug\索引子.exe
+C:\Users\GIGABYTE\source\repos\索引子\索引子\obj\Debug\索引子.pdb

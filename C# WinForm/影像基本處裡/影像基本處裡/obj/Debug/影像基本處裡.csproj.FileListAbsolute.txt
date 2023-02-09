@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\bin\Debug\影像基本處裡.exe.config
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\bin\Debug\影像基本處裡.exe
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\bin\Debug\影像基本處裡.pdb
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\obj\Debug\影像基本處裡.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\obj\Debug\影像基本處裡.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\obj\Debug\影像基本處裡.Form1.resources
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\obj\Debug\影像基本處裡.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\obj\Debug\影像基本處裡.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\obj\Debug\影像基本處裡.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\obj\Debug\影像基本處裡.exe
+C:\Users\GIGABYTE\source\repos\影像基本處裡\影像基本處裡\obj\Debug\影像基本處裡.pdb
