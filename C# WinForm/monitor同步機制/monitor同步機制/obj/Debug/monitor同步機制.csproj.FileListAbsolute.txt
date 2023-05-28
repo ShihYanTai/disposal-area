@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\bin\Debug\monitor同步機制.exe.config
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\bin\Debug\monitor同步機制.exe
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\bin\Debug\monitor同步機制.pdb
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\obj\Debug\monitor同步機制.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\obj\Debug\monitor同步機制.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\obj\Debug\monitor同步機制.Form1.resources
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\obj\Debug\monitor同步機制.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\obj\Debug\monitor同步機制.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\obj\Debug\monitor同步機制.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\obj\Debug\monitor同步機制.exe
+C:\Users\GIGABYTE\source\repos\monitor同步機制\monitor同步機制\obj\Debug\monitor同步機制.pdb

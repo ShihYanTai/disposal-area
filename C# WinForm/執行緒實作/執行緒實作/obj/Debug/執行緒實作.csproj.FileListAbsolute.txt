@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\bin\Debug\執行緒實作.exe.config
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\bin\Debug\執行緒實作.exe
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\bin\Debug\執行緒實作.pdb
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\obj\Debug\執行緒實作.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\obj\Debug\執行緒實作.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\obj\Debug\執行緒實作.Form1.resources
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\obj\Debug\執行緒實作.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\obj\Debug\執行緒實作.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\obj\Debug\執行緒實作.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\obj\Debug\執行緒實作.exe
+C:\Users\GIGABYTE\source\repos\執行緒實作\執行緒實作\obj\Debug\執行緒實作.pdb

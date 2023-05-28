@@ -1,0 +1,12 @@
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\bin\Debug\擴充按鈕控制功能.exe.config
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\bin\Debug\擴充按鈕控制功能.exe
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\bin\Debug\擴充按鈕控制功能.pdb
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\obj\Debug\擴充按鈕控制功能.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\obj\Debug\擴充按鈕控制功能.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\obj\Debug\擴充按鈕控制功能.NewButton.resources
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\obj\Debug\擴充按鈕控制功能.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\obj\Debug\擴充按鈕控制功能.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\obj\Debug\擴充按鈕控制功能.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\obj\Debug\擴充按鈕控制功能.exe
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\obj\Debug\擴充按鈕控制功能.pdb
+C:\Users\GIGABYTE\source\repos\擴充按鈕控制功能\擴充按鈕控制功能\obj\Debug\擴充按鈕控制功能.Form1.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicInfoControl", "BasicInfoControl\BasicInfoControl.csproj", "{F99AE377-181F-48D7-A893-46226A5EA9DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99AE377-181F-48D7-A893-46226A5EA9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99AE377-181F-48D7-A893-46226A5EA9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99AE377-181F-48D7-A893-46226A5EA9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99AE377-181F-48D7-A893-46226A5EA9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFD92527-1D1F-47CD-806D-A55CC222A5A3}
+	EndGlobalSection
+EndGlobal

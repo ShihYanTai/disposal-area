@@ -1,0 +1,6 @@
+C:\Users\GIGABYTE\source\repos\circleLibrary\circleLibrary\bin\Debug\circleLibrary.dll
+C:\Users\GIGABYTE\source\repos\circleLibrary\circleLibrary\bin\Debug\circleLibrary.pdb
+C:\Users\GIGABYTE\source\repos\circleLibrary\circleLibrary\obj\Debug\circleLibrary.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\circleLibrary\circleLibrary\obj\Debug\circleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\circleLibrary\circleLibrary\obj\Debug\circleLibrary.dll
+C:\Users\GIGABYTE\source\repos\circleLibrary\circleLibrary\obj\Debug\circleLibrary.pdb

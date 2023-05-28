@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "連接OLE_DB資料庫", "連接OLE_DB資料庫\連接OLE_DB資料庫.csproj", "{C07B4FAB-B27C-43BF-BAD6-BFA954176237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C07B4FAB-B27C-43BF-BAD6-BFA954176237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07B4FAB-B27C-43BF-BAD6-BFA954176237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07B4FAB-B27C-43BF-BAD6-BFA954176237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07B4FAB-B27C-43BF-BAD6-BFA954176237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4891F7F3-F29E-48BC-9070-62942DC52EE9}
+	EndGlobalSection
+EndGlobal

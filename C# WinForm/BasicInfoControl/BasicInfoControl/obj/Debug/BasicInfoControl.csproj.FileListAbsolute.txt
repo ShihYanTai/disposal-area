@@ -1,0 +1,8 @@
+C:\Users\GIGABYTE\source\repos\BasicInfoControl\BasicInfoControl\bin\Debug\BasicInfoControl.dll
+C:\Users\GIGABYTE\source\repos\BasicInfoControl\BasicInfoControl\bin\Debug\BasicInfoControl.pdb
+C:\Users\GIGABYTE\source\repos\BasicInfoControl\BasicInfoControl\obj\Debug\BasicInfoControl.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\BasicInfoControl\BasicInfoControl\obj\Debug\BasicInfoControl.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\BasicInfoControl\BasicInfoControl\obj\Debug\BasicInfoControl.dll
+C:\Users\GIGABYTE\source\repos\BasicInfoControl\BasicInfoControl\obj\Debug\BasicInfoControl.pdb
+C:\Users\GIGABYTE\source\repos\BasicInfoControl\BasicInfoControl\obj\Debug\BasicInfoControl.basicInfo.resources
+C:\Users\GIGABYTE\source\repos\BasicInfoControl\BasicInfoControl\obj\Debug\BasicInfoControl.csproj.GenerateResource.cache

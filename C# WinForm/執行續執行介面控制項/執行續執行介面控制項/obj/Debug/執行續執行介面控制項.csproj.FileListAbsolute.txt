@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\bin\Debug\執行續執行介面控制項.exe.config
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\bin\Debug\執行續執行介面控制項.exe
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\bin\Debug\執行續執行介面控制項.pdb
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\obj\Debug\執行續執行介面控制項.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\obj\Debug\執行續執行介面控制項.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\obj\Debug\執行續執行介面控制項.Form1.resources
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\obj\Debug\執行續執行介面控制項.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\obj\Debug\執行續執行介面控制項.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\obj\Debug\執行續執行介面控制項.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\obj\Debug\執行續執行介面控制項.exe
+C:\Users\GIGABYTE\source\repos\執行續執行介面控制項\執行續執行介面控制項\obj\Debug\執行續執行介面控制項.pdb

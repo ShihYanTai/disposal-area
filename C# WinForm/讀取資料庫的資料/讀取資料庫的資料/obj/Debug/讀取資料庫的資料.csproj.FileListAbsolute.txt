@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\bin\Debug\讀取資料庫的資料.exe.config
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\bin\Debug\讀取資料庫的資料.exe
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\bin\Debug\讀取資料庫的資料.pdb
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\obj\Debug\讀取資料庫的資料.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\obj\Debug\讀取資料庫的資料.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\obj\Debug\讀取資料庫的資料.Form1.resources
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\obj\Debug\讀取資料庫的資料.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\obj\Debug\讀取資料庫的資料.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\obj\Debug\讀取資料庫的資料.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\obj\Debug\讀取資料庫的資料.exe
+C:\Users\GIGABYTE\source\repos\讀取資料庫的資料\讀取資料庫的資料\obj\Debug\讀取資料庫的資料.pdb

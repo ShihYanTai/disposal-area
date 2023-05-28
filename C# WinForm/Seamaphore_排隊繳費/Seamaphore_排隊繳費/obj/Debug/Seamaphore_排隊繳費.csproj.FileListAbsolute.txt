@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\bin\Debug\Seamaphore_排隊繳費.exe.config
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\bin\Debug\Seamaphore_排隊繳費.exe
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\bin\Debug\Seamaphore_排隊繳費.pdb
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\obj\Debug\Seamaphore_排隊繳費.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\obj\Debug\Seamaphore_排隊繳費.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\obj\Debug\Seamaphore_排隊繳費.Form1.resources
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\obj\Debug\Seamaphore_排隊繳費.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\obj\Debug\Seamaphore_排隊繳費.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\obj\Debug\Seamaphore_排隊繳費.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\obj\Debug\Seamaphore_排隊繳費.exe
+C:\Users\GIGABYTE\source\repos\Seamaphore_排隊繳費\Seamaphore_排隊繳費\obj\Debug\Seamaphore_排隊繳費.pdb

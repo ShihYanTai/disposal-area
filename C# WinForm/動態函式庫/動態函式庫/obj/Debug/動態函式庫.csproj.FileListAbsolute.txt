@@ -1,0 +1,14 @@
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\bin\Debug\動態函式庫.exe.config
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\bin\Debug\動態函式庫.exe
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\bin\Debug\動態函式庫.pdb
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\bin\Debug\circleLibrary.dll
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\bin\Debug\circleLibrary.pdb
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\obj\Debug\動態函式庫.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\obj\Debug\動態函式庫.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\obj\Debug\動態函式庫.Form1.resources
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\obj\Debug\動態函式庫.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\obj\Debug\動態函式庫.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\obj\Debug\動態函式庫.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\obj\Debug\動態函式庫.csproj.CopyComplete
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\obj\Debug\動態函式庫.exe
+C:\Users\GIGABYTE\source\repos\動態函式庫\動態函式庫\obj\Debug\動態函式庫.pdb

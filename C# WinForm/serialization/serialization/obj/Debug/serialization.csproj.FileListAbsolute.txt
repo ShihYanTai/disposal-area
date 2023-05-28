@@ -1,0 +1,8 @@
+C:\Users\GIGABYTE\source\repos\serialization\serialization\bin\Debug\serialization.exe.config
+C:\Users\GIGABYTE\source\repos\serialization\serialization\bin\Debug\serialization.exe
+C:\Users\GIGABYTE\source\repos\serialization\serialization\bin\Debug\serialization.pdb
+C:\Users\GIGABYTE\source\repos\serialization\serialization\obj\Debug\serialization.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\serialization\serialization\obj\Debug\serialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\serialization\serialization\obj\Debug\serialization.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\serialization\serialization\obj\Debug\serialization.exe
+C:\Users\GIGABYTE\source\repos\serialization\serialization\obj\Debug\serialization.pdb

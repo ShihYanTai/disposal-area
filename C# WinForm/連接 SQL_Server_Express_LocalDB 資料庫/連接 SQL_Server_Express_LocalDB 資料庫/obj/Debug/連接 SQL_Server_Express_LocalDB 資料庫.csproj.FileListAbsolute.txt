@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\bin\Debug\連接 SQL_Server_Express_LocalDB 資料庫.exe.config
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\bin\Debug\連接 SQL_Server_Express_LocalDB 資料庫.exe
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\bin\Debug\連接 SQL_Server_Express_LocalDB 資料庫.pdb
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\obj\Debug\連接 SQL_Server_Express_LocalDB 資料庫.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\obj\Debug\連接 SQL_Server_Express_LocalDB 資料庫.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\obj\Debug\連接_SQL_Server_Express_LocalDB_資料庫.Form1.resources
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\obj\Debug\連接_SQL_Server_Express_LocalDB_資料庫.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\obj\Debug\連接 SQL_Server_Express_LocalDB 資料庫.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\obj\Debug\連接 SQL_Server_Express_LocalDB 資料庫.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\obj\Debug\連接 SQL_Server_Express_LocalDB 資料庫.exe
+C:\Users\GIGABYTE\source\repos\連接 SQL_Server_Express_LocalDB 資料庫\連接 SQL_Server_Express_LocalDB 資料庫\obj\Debug\連接 SQL_Server_Express_LocalDB 資料庫.pdb
